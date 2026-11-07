@@ -1314,6 +1314,14 @@
     <title lang="lt">Gamtininko užrašai</title>
     <desc lang="lt">Pagrindinė "Gamtininko užrašų" tema - mūsų gamtos pažinimas. Laidoje pasakojama, kokie gyvūnai gyvena Lietuvoje, kokie augalai auga miškuose ir pievose, kokie gamtos procesai vyksta mums nematant. Programos idėja - sukurti televizinę pramogą vaikams ir visai šeimai, padėti jiems geriau pažinti savo šalies gamtą ir nuo mažens ugdyti pagarbą jai. Tai ypač aktualu dabar, kai visas pasaulis vis garsiau kalba apie būtinybę išsaugoti bent tą gamtos pasaulį, kurio žmonija dar nespėjo sunaikinti.</desc>
   </programme>
+  <programme start="20261112230500 +0000" stop="20261112233000 +0000" channel="LRT TELEVIZIJA">
+    <title lang="lt">35 metai tylos. Kaip saugojome laisvę</title>
+    <desc lang="lt">Dokumentinių laidų ciklas "35 METAI TYLOS. Kaip saugojome laisvę", skirtas kruvinų Sausio įvykių 35-osioms metinėms, kviečia žiūrovus pažvelgti į nepriklausomybę atgavusios Lietuvos krašto apsaugos sistemos kūrimo užkulisius. Ciklas atskleidžia, kaip nepriklausomybės atkūrimo laikotarpiu, Lietuvoje vis dar esant apie 35 tūkst. Sovietų Sąjungos kariškių, saujelė strategų ieškojo būdų apginti valstybę ir išvengti ginkluoto konflikto. Po 35 metų pašnekovai prabyla apie tai, apie ką tuo metu garsiai nekalbėjo. Tai ne tik istorinių faktų rekonstrukcija, bet ir žvilgsnis į diplomatinius bei strateginius sprendimus, padėjusius įtvirtinti Lietuvos nepriklausomybę. Suvokiant, kad karinė konfrontacija su gerokai stipresniu priešininku būtų pražūtinga, buvo pasirinkta nesmurtinio pasipriešinimo strategija, kurios principus išplėtojo JAV politologas prof. Gene'as Sharpas. Šios idėjos buvo pritaikytos Lietuvos sąlygoms ir tapo viena iš priemonių siekiant išsaugoti valstybingumą bei paspartinti okupacinės kariuomenės išvedimą. Paskutiniai Rusijos kariuomenės daliniai iš Lietuvos išvyko 1993 metais - anksčiau nei iš Vokietijos ar Lenkijos.</desc>
+  </programme>
+  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="LRT TELEVIZIJA">
+    <title lang="lt">Aštuonkojis</title>
+    <desc lang="lt">Laidoje bus aptariami svarbiausi pasaulio bei Lietuvos savaitės įvykiai, atkliekama jų analizė trimis lygmenimis: strateginiu - geopolitiniu, operaciniu - taktiniu bei konkrečių veiksmų ant žemės aspektu. Pirmoje laidos dalyje bus analizuojami įvykiai, susiję su naujausia JAV, Kinijos, Rusijos santykių raida, atsiliepiančia Lietuvos saugumo perspektyvoms. Svarbiausias savaitės akcentas gali būti ne kariniai veiksmai, o naftos, grūdų, migrantų problemos, įtakojančios valstybių saugumą bei stabilumą. Pagrindinius geopolitinius įvykius aptars laidos vedėja Nemira Pumprickaitė, karo ekspertas Aurimas Navys ir studijos svečiai. Antroje laidos dalyje bus pateikiama ir analizuojama informacija, kokiomis priemonėmis konfliktuojančios pusės siekia sau naudingų tikslų: kaip vyksta mobilizacija, ekonomikos perorientavimas, kokie priimami sprendimai, teisės aktai ir kt. Šioje laidos dalyje bus rodomas video siužetas, kalbinami herojai iš fronto linijos, pateikiama informacija iš pirmų lūpų. Trečioje laidos dalyje bus detaliai eksponuojami įvykiai ant žemės - kaip, kur vyksta atakos bei postūmiai fronto linijoje. Laidos ekspertas Aurimas Navys interaktyviame žemėlapyje demonstruos, kokiuose taškuose vyksta karščiausi susirėmimai, bus aptariamos bei pateikiamos karo veiksmų bei pokyčių prognozės.</desc>
+  </programme>
   <programme start="20261101011000 +0000" stop="20261101025500 +0000" channel="LNK">
     <title lang="lt">Agentų žaidimai</title>
     <desc lang="lt">Slaptoje CŽA bazėje tardytoju dirbantis Haris sulaukia kaltinimų dėl siaubingai pasibaigusio tardymo ir nurodymo išsiųsti jį iš šalies. Komanda, kuriai pavesta sulaikyti Harį, suabejoja nurodymo teisėtumu, todėl vyresnysis žvalgybos pareigūnas Olsenas ir jo pavaldinys Viseris nusprendžia situaciją dar labiau sujaukti. Ar Harisui su naujaisiais sąjungininkais pavyks įrodyti tikrąją tiesą? Originalus pavadinimas "Agent game".</desc>
@@ -2183,6 +2191,7 @@
   </programme>
   <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="LNK">
     <title lang="lt">Vieno kraujo</title>
+    <desc lang="lt">Seriale "Vieno kraujo" pasakojama apie du brolius, pasirinkusius skirtingus gyvenimo kelius. Vienas jų stoja teisingumo pusėn, o kitas įsitraukia į nusikalstamą pasaulį. Po daugelio metų jų keliai netikėtai susikerta, priversdami susidurti su praeities paslaptimis ir savo pasirinkimų pasekmėmis.</desc>
   </programme>
   <programme start="20261110193000 +0000" stop="20261110202000 +0000" channel="LNK">
     <title lang="lt">Žinios</title>
@@ -2303,6 +2312,7 @@
   </programme>
   <programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="LNK">
     <title lang="lt">Vieno kraujo</title>
+    <desc lang="lt">Seriale "Vieno kraujo" pasakojama apie du brolius, pasirinkusius skirtingus gyvenimo kelius. Vienas jų stoja teisingumo pusėn, o kitas įsitraukia į nusikalstamą pasaulį. Po daugelio metų jų keliai netikėtai susikerta, priversdami susidurti su praeities paslaptimis ir savo pasirinkimų pasekmėmis.</desc>
   </programme>
   <programme start="20261111193000 +0000" stop="20261111202000 +0000" channel="LNK">
     <title lang="lt">Žinios</title>
@@ -2419,6 +2429,7 @@
   </programme>
   <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="LNK">
     <title lang="lt">Vieno kraujo</title>
+    <desc lang="lt">Seriale "Vieno kraujo" pasakojama apie du brolius, pasirinkusius skirtingus gyvenimo kelius. Vienas jų stoja teisingumo pusėn, o kitas įsitraukia į nusikalstamą pasaulį. Po daugelio metų jų keliai netikėtai susikerta, priversdami susidurti su praeities paslaptimis ir savo pasirinkimų pasekmėmis.</desc>
   </programme>
   <programme start="20261112193000 +0000" stop="20261112202000 +0000" channel="LNK">
     <title lang="lt">Žinios</title>
@@ -2438,6 +2449,110 @@
   <programme start="20261112222000 +0000" stop="20261112232000 +0000" channel="LNK">
     <title lang="lt">FTB. Tarptautinis skyrius</title>
     <desc lang="lt">Amerikiečių serialas apie elitinio Federalinio tyrimų biuro (FBI) Tarptautinės skraidymo komandos (IFT) agentų komandą. Jos nariai keliauja po Europą, kad neutralizuotų grėsmes ir sunaikintų Amerikos priešus.</desc>
+  </programme>
+  <programme start="20261112232000 +0000" stop="20261113013000 +0000" channel="LNK">
+    <title lang="lt">Nuostabioji moteris</title>
+    <desc lang="lt">Amazonių princesės Dianos istorija, jos tapimas legendine Nuostabiąja Moterimi, Pirmojo pasaulinio karo mūšiai. Princesė auga saugioje Amazonės saloje ir nuo mažens kartu su kitomis mergaitėmis mokoma karo meno, kad taptų nenugalimomis kovotojomis. Jau suaugusios Dianos kasdienybę sutrikdo netikėtai prie salos krantų sudužęs lėktuvas. Išgelbėjusi jo lakūną, mergina sužino apie pasaulyje siaučiantį Pirmąjį pasaulinį karą. Princesė išvyks į Londoną ir stos į karą. Ji pagaliau atras tikrąsias savo galias.</desc>
+  </programme>
+  <programme start="20261113013000 +0000" stop="20261113022000 +0000" channel="LNK">
+    <title lang="lt">Šviežias kraujas</title>
+    <desc lang="lt">Pradėti iš naujo nėra lengva, ypač Džonui Nolanui, kuris po gyvenimą pakeitusio incidento siekia savo svajonės - įsilieti į Los Andželo policijos departamento gretas. Kaip vyriausias naujokas, jis susiduria su nenuspėjamu ir skepticizmo kupinu policininkų pasauliu. Kodėl jis laikomas vaikščiojančia vidurio amžiaus krize?</desc>
+  </programme>
+  <programme start="20261113022000 +0000" stop="20261113024500 +0000" channel="LNK">
+    <title lang="lt">Pasižadėję: tarnauti Lietuvai</title>
+  </programme>
+  <programme start="20261113024500 +0000" stop="20261113031500 +0000" channel="LNK">
+    <title lang="lt">Retrospektyva</title>
+    <desc lang="lt">Kultūrinė dokumentika. Autoriai Juozas Matonis ir Vytautas Damaševičius.</desc>
+  </programme>
+  <programme start="20261113031500 +0000" stop="20261113040000 +0000" channel="LNK">
+    <title lang="lt">Pertrauka</title>
+    <desc lang="lt">LIetuviški TV kanalai tiesiogiai internetu bet kokiame įrenginyje. Išbandyk Go3.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="LNK">
+    <title lang="lt">Šaunusis Skūbis-Dū</title>
+    <desc lang="lt">Animacinis nuotykių serialas, kuriame sekama, kaip Skūbio komanda sprendžia savo asmenines problemas ir nesibaigiančias, protą sukrečiančias mįsles, kurios jų laukia kitur. Komanda keliauja į 1840-ųjų Didžiąją Britaniją ir susiduria su Ebenezeru Skrudžu, kuris tvirtina, kad jį užpuolė jo partnerio Džeikobo Marlio vaiduoklis ir kad artėja dar trys vaiduokliai. Komanda sutinka išspręsti šią mįslę, tačiau Velma svarsto, ar jos potencialas neapsiriboja vien mįslių sprendimu...</desc>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="LNK">
+    <title lang="lt">Tomo ir Džerio pasakos</title>
+    <desc lang="lt">Nenutrūkstamos dviejų šmaikščių personažų - katino Tomo ir peliuko Džerio lenktynės tapo animacinių filmukų klasikos šedevru. Šie linksmi ir pašėlę herojai niekuomet nepavargs krėsti šunybių, tačiau ištikus bėdai jie visuomet atskubės į pagalbą vienas kitam.</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="LNK">
+    <title lang="lt">TAIP ir NE</title>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="LNK">
+    <title lang="lt">Rimti reikalai</title>
+    <desc lang="lt">Istorijų gausa, energingas pasakojimo stilius ir ironiškas požiūris į situacijas - tai naujas LNK serialas "Rimti reikalai". Po penkių kalėjimo metų į laisvę paleistas nusikaltėlis Hardas atsiduria kruvinų įvykių epicentre. Nusikaltėlių gauja, kuriai jis priklausė, skyla, prasideda nuožmi kova dėl mafijos boso kėdės. Kriminalinių dramų ir komedijų seriale - visas Lietuvos aktorių žvaigždynas: Marius Repšys, Mantas Vaitiekūnas, Algirdas Gradauskas, Josifas Baliukevič, Justinas Barkus ir daugybė kitų. Rašytojas ir scenaristas Edvinas Kalėda. Režisierius - Džiugas Siaurusaitis.</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="LNK">
+    <title lang="lt">Slaptažodis</title>
+    <desc lang="lt">"Bus tik geriau", – užsegdamas antrankius sendaikčių medžiotojui Tadui Kanapeckui, geriau žinomam Varkės Labdarkės slapyvardžiu, pareiškė žaidimo "Slaptažodis" vedėjas Justinas Jankevičius. Šį antradienio vakarą žiūrovų laukia netikėtas žaidimo posūkis – vienas iš dalyvių atsidurs surakintas antrankiais. Tiesa, pats Varkė Labdarkė dėl tokio vedėjo sprendimo pernelyg nesutriko. "Ne pirmą kartą surakintas antrankiais", – po filmavimo juokavo jis. Pasirodo, antrankiai Tadui priminė kuriozišką istoriją iš laikų, kai jis dar užsiėmė tatuiravimu. Kartą apsilankęs pas draugą, turėjusį tikrus antrankius, jis panoro išbandyti, kaip šie veikia. Tačiau nekaltas smalsumas baigėsi netikėtu nuotykiu. "Vienas mano draugas turėjo tikrus antrankius. Tuo metu aš dar dariau tatuiruotes ir užsukau pas jį. Sakau: "Parodyk, kaip tie antrankiai užsisega!" Ir jis man surakino rankas, o tada staiga nulūžo raktelis. Visaip bandėme atrakinti, bet niekaip nepavyko. Skambinu savo klientui ir sakau: "Nepykite, nepadarysiu tatuiruotės, nes esu surakintas antrankiais." Vis dėlto po ilgų bandymų kažkaip mane atrakinome ir, nors ir pavėlavęs, atbėgau padaryti tos tatuiruotės", – prisimena Varkė Labdarkė. Tačiau tai – tik viena iš netikėtų istorijų, kuriomis antradienio vakarą dalysis žaidimo dalyvis. Po Dainiaus Kazlausko pristatymo jis prisimins ir pasakojimą apie paslaptingą Šilalės princesę bei jos deimantinį žiedą. "Šilalėje gyveno viena tokia moteris ir ją visi pažinojo. Ji buvo Šilalės princesė. Turėjo tokį deimantinį žiedą ir vieną kartą atvarė į Klaipėdą maudytis į jūrą. Pasidėjo drabužius, pasidėjo žiedą ir nebegrįžo iš jūros. Tada ėjo žvejys, rado tą žiedą..." – intriguojantį pasakojimą pradės Varkė Labdarkė. Kuo baigėsi ši istorija, kodėl Justinas Jankevičius buvo priverstas perduoti linkėjimus "Hario Poterio" gerbėjams ir už ką pabučiavo Varkę Labdarkę? O svarbiausia – ar žaidimo dalyviams pavyks laimėti pagrindinį prizą?</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="LNK">
+    <title lang="lt">Šviežias kraujas</title>
+    <desc lang="lt">Pradėti iš naujo nėra lengva, ypač Džonui Nolanui, kuris po gyvenimą pakeitusio incidento siekia savo svajonės - įsilieti į Los Andželo policijos departamento gretas. Kaip vyriausias naujokas, jis susiduria su nenuspėjamu ir skepticizmo kupinu policininkų pasauliu. Kodėl jis laikomas vaikščiojančia vidurio amžiaus krize?</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="LNK">
+    <title lang="lt">Man reikia meilės</title>
+    <desc lang="lt">Didelio populiarumo sulaukusio serialo "Monikai reikia meilės" personažai grįžta naujajame seriale "Man reikia meilės". Visiems puikiai pažįstamos Lionios (akt. Džiugas Siaurusaitis) ir Zinos (akt. Ilona Kvietkutė) šeimos kasdienybę sujauks nauja įsimylėjėlių pora - Deimantas (akt. Arnas Ašmonas) ir Vilma (akt. Gabija Staniulytė). Susikirs dveji skirtingų kartų, požiūrių ir įpročių, tiesiog kardinaliai skirtingi gyvenimai.</desc>
+  </programme>
+  <programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="LNK">
+    <title lang="lt">Man reikia meilės</title>
+    <desc lang="lt">Didelio populiarumo sulaukusio serialo "Monikai reikia meilės" personažai grįžta naujajame seriale "Man reikia meilės". Visiems puikiai pažįstamos Lionios (akt. Džiugas Siaurusaitis) ir Zinos (akt. Ilona Kvietkutė) šeimos kasdienybę sujauks nauja įsimylėjėlių pora - Deimantas (akt. Arnas Ašmonas) ir Vilma (akt. Gabija Staniulytė). Susikirs dveji skirtingų kartų, požiūrių ir įpročių, tiesiog kardinaliai skirtingi gyvenimai.</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="LNK">
+    <title lang="lt">Širdžių slėnis</title>
+    <desc lang="lt">Kerinčioje Kapadokijoje susipina šeimos paslaptys, aistringa meilė ir keršto troškimas, o kiekvienas likimo vingis atveria naują dramą. Motinos vaikystėje palikti vaikai grįš į gimtąjį miestą išsiaiškinti tiesos. Ar šeimos paslaptys netaps per sunkia našta?</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="LNK">
+    <title lang="lt">Širdžių slėnis</title>
+    <desc lang="lt">Kerinčioje Kapadokijoje susipina šeimos paslaptys, aistringa meilė ir keršto troškimas, o kiekvienas likimo vingis atveria naują dramą. Motinos vaikystėje palikti vaikai grįš į gimtąjį miestą išsiaiškinti tiesos. Ar šeimos paslaptys netaps per sunkia našta?</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="LNK">
+    <title lang="lt">Turtuolė varguolė</title>
+    <desc lang="lt">Ypatingo populiarumo Ukrainoje sulaukęs realybės šou, kurio kiekvienoje serijoje paprasta mergaitė iš kaimo pasikeičia vietomis su miesto fyfa. Tris dienas valstietė gyvena nerūpestingą turtingo miesto gyvenimą, o jos kolegė patiria visus kaimo gyvenimo (ne)žavesius. Pasibaigus nuotykiui, jos pirmą kartą susitinka pasidalyti savo įspūdžiais. Pilnas emocijų šou, kupinas ironijos, humoro, jaudulio ir savo vertybių perkainojimo.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="LNK">
+    <title lang="lt">Meilė iš pirmo žvilgsnio</title>
+    <desc lang="lt">Ekspertų atrinkti, bet visiškai nepažįstami žmonės ryžtasi santuokos eksperimentui: pirmą kartą susitinka iškart prie altoriaus, o davę santuokos įžadus apsigyvena kartu. Ar ekspertų spėjimai dėl porų suderinamumo pasitvirtins?</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="LNK">
+    <title lang="lt">Nuodėmės ir rožės</title>
+    <desc lang="lt">Populiarus turkų serialas. Serhato pasaulis sugriūna, kai jis sužino apie savo žmonos Berrak ilgai slėptą paslaptį. Susidūręs su drąsiąja Zeynep, jis įtraukiamas į įvykių sūkurį, kurie viską pakeis.</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="LNK">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Kasdienė populiari naujienų laida, pateikianti svarbiausią ir aktualiausią informaciją iš Lietuvos ir pasaulio. Laidoje – faktai ir komentarai, tiesioginiai reportažai iš įvykių vietų bei išsamios aktualių temų apžvalgos.</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113153000 +0000" channel="LNK">
+    <title lang="lt">TAIP ir NE</title>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113163000 +0000" channel="LNK">
+    <title lang="lt">Labas vakaras, Lietuva</title>
+    <desc lang="lt">Kasdieninė informacinė pokalbių laida "Labas vakaras, Lietuva". Laidos vedėjai su plačiomis šypsenomis pasitinka iš darbo grįžtančius žiūrovus su naujausiomis žiniomis iš Lietuvos ir pasaulio, pramoginėmis naujienomis, orų prognozėmis.</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113172000 +0000" channel="LNK">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Kasdienė populiari naujienų laida, pateikianti svarbiausią ir aktualiausią informaciją iš Lietuvos ir pasaulio. Laidoje – faktai ir komentarai, tiesioginiai reportažai iš įvykių vietų bei išsamios aktualių temų apžvalgos.</desc>
+  </programme>
+  <programme start="20261113172000 +0000" stop="20261113172700 +0000" channel="LNK">
+    <title lang="lt">Sportas</title>
+    <desc lang="lt">Lietuvos ir pasaulio sporto naujienos.</desc>
+  </programme>
+  <programme start="20261113172700 +0000" stop="20261113173000 +0000" channel="LNK">
+    <title lang="lt">Orai</title>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113190000 +0000" channel="LNK">
+    <title lang="lt">Muzikos detektyvai</title>
+    <desc lang="lt">Visiškai naujas muzikinis šou žaidimas, kuriam vadovaus unikalaus humoro jausmo savininkas Gintas Vaičikauskas. Muzikos detektyvuose dvi žvaigždžių vadovaujamos komandos bandys susekti muzikinius pėdsakus. Ar komandoms pakaks sumanumo atpažinti užmaskuotus hitus?</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113211000 +0000" channel="LNK">
+    <title lang="lt">Spąstai</title>
+    <desc lang="lt">Tėvas Kuperis su paaugle dukra Raili vyksta į popžvaigždės koncertą, tikėdamasis smagiai praleisti vakarą. Tačiau koncertų areną apsupus policijai, jis sužino šiurpią tiesą: renginys surengtas tam, kad būtų sugautas serijinis žudikas, pravarde Skerdikas. Kuperis supranta, kad spąstai skirti būtent jam, ir dabar turi rasti būdą ištrūkti, neišduodamas savęs dukrai. Josh Hartnettas, Ariel Donoghue ir Saleka Shyamalan įtemptame M. Night Shyamalano trileryje. Originalus filmo pavadinimas "Trap".</desc>
+  </programme>
+  <programme start="20261113211000 +0000" stop="20261113231000 +0000" channel="LNK">
+    <title lang="lt">Kung Fu. Žaidimas iki mirties</title>
+    <desc lang="lt">Garsūs kovotojai yra įtraukti į mirtinus kovos menų žaidimus, kuriuos organizuoja sadistinių polinkių turintis magnatas. Ginkluoti tik savo kovos įgūdžiais, jie susiduria su žiauriomis kovomis dėl išlikimo mirtinoje "nužudyk arba būsi nužudytas" dvikovoje.</desc>
   </programme>
   <programme start="20261101003000 +0000" stop="20261101031500 +0000" channel="TV3">
     <title lang="lt">Hobitas. Penkių armijų mūšis</title>
@@ -3020,7 +3135,7 @@
   </programme>
   <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="TV3">
     <title lang="lt">Skanauk Lietuvą</title>
-    <desc lang="lt">Skanauk Lietuvą" - tai požiūrį į lietuvišką virtuvę plečianti laida, atskleidžianti neatrastus mūsų šalies gastronomijos perlus. Ir ne tik didžiuosiuose Lietuvos miestuose, bet ir mažuose miesteliuose ar net kaimuose! Kartu su gastronomijos pasaulio profesionalu Dariumi Katinu, kiekvienas žiūrovas galės įsijausti į restorano vertintojo rolę. O taip pat - išgirsti juos kuriančių lietuvių istorijas, susipažinti su išskirtiniais produktais, tradicijomis bei žmonėmis. Be to, kiekvienos laidos pabaigoje virtuvės šefas Arnas Petronis parodys, kaip pasigaminti šiuolaikiškus, lietuviškos virtuvės įkvėptus patiekalus, kuriems reikalingus ingredientus nesunkiai rasite artimiausioje parduotuvėje.</desc>
+    <desc lang="lt">Ar žinojote, kad didžiausi gastronominiai lobiai Lietuvoje slepiasi net viduryje miškų?! Būtent tą atskleis laidos "Skanauk Lietuvą" premjera. Šeštadienių naujiena kvies plėsti požiūri į lietuvišką virtuvę ir kaskart atrasti vis naujų aplankyti būtinų vietų ne tik didžiuosiuose Lietuvos miestuose, bet ir mažuose miesteliuose ar net kaimuose. O svarbiausia, kad laidos pabaigoje žiūrovų lauks ir ypatingas receptas. Pavyzdžiui, ar žinojote, kaip kitaip jūsų lėkštėje gali suskambėti daugelio lietuvių pamilti balandėliai? Nuo šiol šeštadienio rytus praleiskite kartu su gastronomijos pasaulio profesionalu Dariumi Katinu, kurio dėka kiekvienas žiūrovas galės įsijausti į restorano vertintojo rolę! O taip pat –išgirsti šias vietas kuriančių lietuvių istorijas, susipažinti su išskirtiniais produktais, tradicijomis bei žmonėmis. O kiekvienos laidos pabaigoje virtuvės šefas Arnas Petronis parodys, kaip pasigaminti šiuolaikiškus, lietuviškos virtuvės įkvėptus patiekalus, kuriems reikalingus ingredientus nesunkiai rasite artimiausioje parduotuvėje. Restorano darbuotojai ingredientų ieško ir artimiausiame miške Pirmojoje laidoje D. Katinas pakvies į Dzūkiją, Liškiavos kaimą. Čia įsikūrusioje "Aukštoji Liškiava" SPA rezidencijoje atrasime miškų ir gamtos įkvėptą restoraną, kuriame žiūrovus pasitiks virtuvės šefė Eglė Kaminskaitė. Ji ne tik papasakos apie restoraną, bet ir pristatys tris ypatingus patiekalus. Anot virtuvės šefės, būtent Dzūkijos miškai ir jų gėrybės tapo pagrindiniu įkvėpimu kuriant restorano meniu. Čia stengiamasi kuo daugiau produktų atrasti artimiausioje aplinkoje, o į mišką keliauja net patys virtuvės darbuotojai. "Mes su visa restorano komanda juokaujame, kad jau turime miško etatą. Turime lentą, ant kurios rašome pasiruošimo darbų sąrašą, ir ten visada atsiranda miško kortelė – reikia kiškio kopūstų, gėlių, dilgėlių, grybų ar voveraičių. Visi gauna po kibirėlį į rankas. Kartais nenori, nes lyja, bet ilgainiui išmokome tuo džiaugtis ir su malonumu bėgame į mišką", – pasakos E. Kaminskaitė. Restorano virtuvėje ypatingas dėmesys skiriamas ir tvarumui. Pasak šefės, kuriant kiekvieną patiekalą svarbu apgalvoti ne tik jo skonį ar išvaizdą, bet ir tai, kaip bus panaudotos visos produkto dalys. "Kurdami meniu, su visa komanda atsižvelgiame į tai, ką darysime su atliekomis, ir stengiamės panaudoti viską. Galime sakyti, kad apie 90 procentų mūsų likučių yra panaudojami vėl", – atskleis šefė. O kokie patiekalai gimsta tokioje virtuvėje? Laidos vedėjas D. Katinas pasidalins savo įspūdžiais: nuo netikėtai sužibėjusių ne lašišų ar upėtakių, o lydekų ikrų, iki ypatingo pateikimo ir stebinančių detalių, kaip, pavyzdžiui, duonos trupiniai. Tačiau bene labiausiai jį nustebins į vaikystę sugrįžti paskatinęs lašinių skonis! "Kepto lašinio skonis ir kopūstas mane grąžina į vaikystę. Ar jūs galite patikėti, kad tokio lygio patiekalai yra ne kažkur dideliame mieste, o vidury miškų?" – žavėsis Darius. Vis dėlto laidos vedėjas neapsiribos vien pagyromis. Įvertinęs šefės kūrybiškumą ir savitą lietuviškos virtuvės interpretaciją, jis pasidalins ir keliais profesionaliais patarimais. Laidoje žiūrovai taip pat išgirs apie į Lietuvą atkeliaujantį gastronominį gidą "Gault&amp;Millau", kuris gruodžio 1 dieną skelbs pirmuosius Lietuvos restoranų apdovanojimus. Darius papasakos, kaip anoniminiai gidų inspektoriai vertina restoranus ir kokią reikšmę jų vertinimuose turi produktų kokybė, skonis, gaminimo technikos bei bendra gastronominė patirtis. O antroje laidos dalyje "B'arn bistro" savininkas, šefas A. Petronis gamins balandėlius kitaip.</desc>
   </programme>
   <programme start="20261107090000 +0000" stop="20261107101500 +0000" channel="TV3">
     <title lang="lt">Nuo aušros iki sutemų</title>
@@ -3597,6 +3712,122 @@
   <programme start="20261112213000 +0000" stop="20261112234500 +0000" channel="TV3">
     <title lang="lt">Tobulos kopijos</title>
     <desc lang="lt">Neurologo Viljamo Fosterio (aktorius Keanu Reeves) tyrimų tikslas - nemirtingumas, perkeliant žmogaus sąmonę į kompiuterį. Tačiau smegenys vis atsisako "gyventi" robotų kūne ir, atrodo, tyrimą teks nutraukti. Netikėtai avarijoje žūsta Viljamo šeima. Mokslininkas nusprendžia susigrąžinti savo šeimą bet kokia kaina ir pradeda eksperimentus su dar didesniu įkvėpimu. Tačiau ar bus lengva nugalėti mirtį?</desc>
+  </programme>
+  <programme start="20261112234500 +0000" stop="20261113013500 +0000" channel="TV3">
+    <title lang="lt">Atpildas</title>
+    <desc lang="lt">Berlyne gyvenantis finansininkas Metas Turneris (akt. Liam Neeson) su žmona Heter (akt. Embeth Davidtz) augina sūnų Zaką ir dukrą Emilę. Vieną rytą, veždamas vaikus į mokyklą, Metas sulaukia netikėto skambučio telefonu. Atsiliepęs į nežinomo numerio skambutį, vyras išgirsta siaubingą grasinimą. Nepažįstamasis teigia, kad po visomis sėdynėmis yra įtaisyti sprogmenys, kurie aktyvavosi vos ant jų atsisėdus. Vienintelis būdas išlikti gyviems - vykdyti skambinančiojo paliepimus ir tikėtis, kad jis bombas nukenksmins nuotoliniu būdu. Anonimo užduotys viena po kitos tampa vis pavojingesnės ir šiurpesnės. Pamažu aiškėja paslaptingojo skambintojo planas - sukompromituoti Metą ir paversti jį žudiku, kurį medžioja visos miesto policijos pajėgos. Neturėdamas kitos išeities, Metas privalo sprukti nuo policijos pareigūnų ir pergudrauti savo budelį. Ar jam pavyks išgelbėti vaikus ir išsigelbėti pačiam?</desc>
+  </programme>
+  <programme start="20261113013500 +0000" stop="20261113025500 +0000" channel="TV3">
+    <title lang="lt">Didžiosios Britanijos kepėjų kovos</title>
+    <desc lang="lt">Dvylika spalvingų asmenybių, kepėjų – mėgėjų, dalyvauja Didžiosios Britanijos kepėjų kovose ir siekia ypatingo laimėtojo titulo. Laukia net trisdešimt skirtingų užduočių, kurias įveikus, paaiškės geriausias iš jų. Šeštajame realybės šou "Didžiosios Britanijos kepėjų kovos" sezone dalyvauja lietuvė Ugnė Bubnaitytė. Keliolika metų Londone gyvenanti moteris laisvalaikiu užsiima kultūrizmu ir dievina gaminti. Sužibėjusi britų kulinariniame šou, lietuvė tapo tikra įžymybe.</desc>
+  </programme>
+  <programme start="20261113025500 +0000" stop="20261113040000 +0000" channel="TV3">
+    <title lang="lt">Dingusiųjų žemė</title>
+    <desc lang="lt">Los Andželo viduryje netikėtai atsveria milžiniško dydžio smegduobė. Į jos gelmes įtraukiami netik didžiuliai pastatai, automobiliai ir ištisos gatvės. Prarajoje pradingsta šimtai žmonių. Po siaubingo išgąsčio jie atsibunda svetimoje, pirmykštėje žemėje, kurioje viskas baugina ir verčia įjungti savisaugos jusles. Čia pilna grobuonių, maisto ištekliai riboti, o užuovėją tenka susiręsti savo rankomis. Stengdamiesi išgyventi, išlikusieji pradeda burtis į grupes. Nes išgyventi pavieniui smegduobėje beveik neįmanoma. Ar žmonės normaliame pasaulyje turės galimybę susigrąžinti prarastus visuomenės narius? Ką jie nuspręs supratę, kad smegduobė yra laikinas portalas į laikmetį, siekiantį 10 000 m. prieš Kristų? Galbūt viltis susigrąžinti artimuosius bus palaidota visiems laikams.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="TV3">
+    <title lang="lt">Gyvūnų pasaulis</title>
+    <desc lang="lt">"Gyvūnų pasaulis" - nr. 1 laida apie augintinius Lietuvoje! Ar žinojote, kad šunys laiko tėkmę skaičiuoja nosimi? O katės murkimas yra mediciniškai įrodytas vaistas, kuris malšina skausmą ar skatina gijimą? Naujajame sezone TV3 laidos žiūrovai naujausių mokslinių faktų apie visų mūsų mylimus augintinius išgirs dar daugiau. Be to, kartu su laidos vedėju Pauliu Kaupeliu sužinosime ir tai, kokius gyvūnus augina Lietuvos garsenybės.</desc>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="TV3">
+    <title lang="lt">Pasidaryk pats. Šeimai šiandien</title>
+    <desc lang="lt">Laidoje "Pasidaryk pats. Šeimai šiandien" netrūks juoko, netikėtų pokalbių ir kulinarinių eksperimentų. Laidos vedėjas Audrius Bružas apsilankys dainininko Vaido Baumilos namuose, kuriuose kartu su atlikėju iškeps obuolių pyragą artėjančios "Pyragų dienos" proga. Virtuvėje užvirs tikras veiksmas, o tarp miltų, cukraus ir cinamono, netrūks ir pokalbių apie viengungio gyvenimą, maisto gaminimą ir santykį su publika. Į svečius pas Vaidą laidos vedėjas A. Bružas atvyks ne tuščiomis. Anot Audriaus, drėgnuoju metų laiku tokia dovana gali gerokai palengvinti kasdienę buitį! O kokią praktišką dovaną jis padovanos, pamatysite laidoje. Tačiau svarbiausia Audriui ir Vaidui bus iškepti pyragą, ir taip prisidėti prie "Pyragų dienos" – šventės, kai pyrago gabalėlis reiškia kur kas daugiau nei tik saldų malonumą. Šiemet lapkričio 6-ąją kviečia konditeriniams ir kulinariniams eksperimentams, kurių metu virtuvėse gimsta ne tik gardžiausi kepiniai, bet ir geri darbai. Viskas, ką reikia padaryti, tai tik iškepti pyragą, savo kepiniu pasidalinti su kitais, o už pyrago gabalėlį sutartą sumą paaukoti "Išsipildymo akcijos" herojams – vaikams, kuriems reikalinga sudėtinga medicininė pagalba ar ypatinga priežiūra. Daugiau: issipildymoakcija.lt Virtuvėje – pokalbiai apie viengungio gyvenimą Nors V. Baumila scenoje jaučiasi užtikrintai, virtuvėje, kaip pats prisipažins, šeimininkauja gerokai rečiau. Dainininkas neslėps – gaminti jam patinka, tačiau dažnai šią užduotį perima draugai. "Kai ateina, jie sako: "Šitam senberniui reikia padėti kažkaip pragyventi", – juokaus Vaidas. Išgirdęs tokį prisipažinimą, A. Bružas nepraleis progos pasiteirauti apie dainininko santykių statusą. Tačiau V. Baumila greitai ras šmaikštų atsakymą. "Kitoks statusas, žinoma. Aš jaunbernis", – juokdamasis pareikš jis. Tiesa, ir pats laidos vedėjas prisipažins nesantis didelis maisto gaminimo entuziastas. Anot jo, jei ne šis susitikimas, obuolių pyrago tądien greičiausiai nė vienas nebūtų sugalvojęs kepti... "Aš išvis nemėgstu gaminti. Ilgą laiką valgydavau taip, kad tik būčiau pavalgęs", – pasakos A. Bružas. Paklaustas, kas tokiu atveju pasirūpindavo jo maistu, vedėjas nedvejodamas atsakys – restoranai. O juokaudamas pridurs, kad kartais tereikia pasirodyti prie restorano lango, ir kas nors jau kviečia vidun pavalgyti! Obuolių pyragas taps tikru kantrybės išbandymu Nors iš pirmo žvilgsnio iškepti obuolių pyragą neatrodo kaip sudėtinga užduotis, abiem vyrams netrūks iššūkių. V. Baumila imsis vadovauti procesui, o A. Bružas ne kartą suabejos jo kulinariniais sprendimais. Vienu metu vedėjas net pamanys, kad vietoje cinamono į pyragą dainininkas beria visai kitą ingredientą! Ir nors virtuvėje netrūks netvarkos, V. Baumila į tai žvelgs paprastai. Dainininkas bus įsitikinęs, kad gaminant svarbiausia ne nepriekaištinga aplinka, o pats procesas ir gera nuotaika. Kol pyragas keps, vyrai turės progą pasikalbėti ir apie sceną. V. Baumila, koncertuojantis įvairiuose Lietuvos miestuose, pasidalins pastebėjimais apie skirtingų regionų publiką ir jos reakcijas. Anot atlikėjo, kiekviename mieste žmonės turi savitą humoro jausmą, todėl tai, kas prajuokina vienur, nebūtinai taip pat suveikia ir kitur. "Žemaitijoje žmonės iš tikrųjų dovanoja daug liaupsių, daug aplodismentų, daug juokiasi. Neseniai buvome Kretingoje, tai Kretingos publika tikrai labai reagavo. Man tai labai patiko", – pasakos V. Baumila. Dainininkas pastebės, kad Vilniuje, norint nustebinti žiūrovus, kartais tenka labiau pasistengti, tačiau ir sostinės publika jį priima itin šiltai. "Man apskritai labai patinka per koncertus bendrauti su publika. Aš turiu daugiau laisvės tas pauzes užpildyti, bendrauti ir apsikeisti kažkokiu humoru", – sakys jis. Ar dainininkui pavyks įrodyti, kad virtuvėje jis toks pat talentingas kaip scenoje? Ir kuris iš jųdviejų iš tiesų geriau išmano maisto gaminimo subtilybes?</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="TV3">
+    <title lang="lt">Farai</title>
+    <desc lang="lt">Realybės dokumentika "Farai" iš arti atskleidžia sudėtingą Lietuvos policijos darbą. Pilietiškai skatinami elgtis ir laidos žiūrovai – neužsimerkti, nepraeiti pro šalį, o apie įtartinus asmenis pranešti policijai. Naujajame laidos sezone žiūrovai pamatys, su kokiais iššūkiais susiduria skirtingos policijos tarnybos: kinologai, raitoji policija ar netgi nežymėtų policijos automobilių patruliai. Ištikimų laidos gerbėjų laukia dar stipresni įspūdžiai – sudėtingos situacijos, nenuspėjamas įtariamųjų elgesys, gaudynės, pasipriešinimas, draudžiami daiktai, narkotinės medžiagos bei žaibiški ir profesionalūs pareigūnų veiksmai nė vieno žiūrovo nepaliks abejingo.</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="TV3">
+    <title lang="lt">Skanauk Lietuvą</title>
+    <desc lang="lt">Ar žinojote, kad didžiausi gastronominiai lobiai Lietuvoje slepiasi net viduryje miškų?! Būtent tą atskleis laidos "Skanauk Lietuvą" premjera. Šeštadienių naujiena kvies plėsti požiūri į lietuvišką virtuvę ir kaskart atrasti vis naujų aplankyti būtinų vietų ne tik didžiuosiuose Lietuvos miestuose, bet ir mažuose miesteliuose ar net kaimuose. O svarbiausia, kad laidos pabaigoje žiūrovų lauks ir ypatingas receptas. Pavyzdžiui, ar žinojote, kaip kitaip jūsų lėkštėje gali suskambėti daugelio lietuvių pamilti balandėliai? Nuo šiol šeštadienio rytus praleiskite kartu su gastronomijos pasaulio profesionalu Dariumi Katinu, kurio dėka kiekvienas žiūrovas galės įsijausti į restorano vertintojo rolę! O taip pat –išgirsti šias vietas kuriančių lietuvių istorijas, susipažinti su išskirtiniais produktais, tradicijomis bei žmonėmis. O kiekvienos laidos pabaigoje virtuvės šefas Arnas Petronis parodys, kaip pasigaminti šiuolaikiškus, lietuviškos virtuvės įkvėptus patiekalus, kuriems reikalingus ingredientus nesunkiai rasite artimiausioje parduotuvėje. Restorano darbuotojai ingredientų ieško ir artimiausiame miške Pirmojoje laidoje D. Katinas pakvies į Dzūkiją, Liškiavos kaimą. Čia įsikūrusioje "Aukštoji Liškiava" SPA rezidencijoje atrasime miškų ir gamtos įkvėptą restoraną, kuriame žiūrovus pasitiks virtuvės šefė Eglė Kaminskaitė. Ji ne tik papasakos apie restoraną, bet ir pristatys tris ypatingus patiekalus. Anot virtuvės šefės, būtent Dzūkijos miškai ir jų gėrybės tapo pagrindiniu įkvėpimu kuriant restorano meniu. Čia stengiamasi kuo daugiau produktų atrasti artimiausioje aplinkoje, o į mišką keliauja net patys virtuvės darbuotojai. "Mes su visa restorano komanda juokaujame, kad jau turime miško etatą. Turime lentą, ant kurios rašome pasiruošimo darbų sąrašą, ir ten visada atsiranda miško kortelė – reikia kiškio kopūstų, gėlių, dilgėlių, grybų ar voveraičių. Visi gauna po kibirėlį į rankas. Kartais nenori, nes lyja, bet ilgainiui išmokome tuo džiaugtis ir su malonumu bėgame į mišką", – pasakos E. Kaminskaitė. Restorano virtuvėje ypatingas dėmesys skiriamas ir tvarumui. Pasak šefės, kuriant kiekvieną patiekalą svarbu apgalvoti ne tik jo skonį ar išvaizdą, bet ir tai, kaip bus panaudotos visos produkto dalys. "Kurdami meniu, su visa komanda atsižvelgiame į tai, ką darysime su atliekomis, ir stengiamės panaudoti viską. Galime sakyti, kad apie 90 procentų mūsų likučių yra panaudojami vėl", – atskleis šefė. O kokie patiekalai gimsta tokioje virtuvėje? Laidos vedėjas D. Katinas pasidalins savo įspūdžiais: nuo netikėtai sužibėjusių ne lašišų ar upėtakių, o lydekų ikrų, iki ypatingo pateikimo ir stebinančių detalių, kaip, pavyzdžiui, duonos trupiniai. Tačiau bene labiausiai jį nustebins į vaikystę sugrįžti paskatinęs lašinių skonis! "Kepto lašinio skonis ir kopūstas mane grąžina į vaikystę. Ar jūs galite patikėti, kad tokio lygio patiekalai yra ne kažkur dideliame mieste, o vidury miškų?" – žavėsis Darius. Vis dėlto laidos vedėjas neapsiribos vien pagyromis. Įvertinęs šefės kūrybiškumą ir savitą lietuviškos virtuvės interpretaciją, jis pasidalins ir keliais profesionaliais patarimais. Laidoje žiūrovai taip pat išgirs apie į Lietuvą atkeliaujantį gastronominį gidą "Gault&amp;Millau", kuris gruodžio 1 dieną skelbs pirmuosius Lietuvos restoranų apdovanojimus. Darius papasakos, kaip anoniminiai gidų inspektoriai vertina restoranus ir kokią reikšmę jų vertinimuose turi produktų kokybė, skonis, gaminimo technikos bei bendra gastronominė patirtis. O antroje laidos dalyje "B'arn bistro" savininkas, šefas A. Petronis gamins balandėlius kitaip.</desc>
+  </programme>
+  <programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="TV3">
+    <title lang="lt">Be tabu</title>
+    <desc lang="lt">BE TABU" - vienas pirmųjų informacinių šou Lietuvoje, kuris į visuomenę, jos ydas, svarbiausius įvykius bei veikėjus kvietė pažvelgti pro drąsius ir ironiškus akinius. Ir nors laikai keičiasi, kai kas išlieka taip pat - mūsų smalsumas tam, kaip gyvena ir dirba mūsų išrinktieji! Todėl, praėjus 20 metų, projektas į TV3 sugrįžta ir vėl. Tik šįkart - dar aštresnis, dar labiau stebinantis ir aktualesnis nei bet kada anksčiau. Laidai diriguos šiandienos žiūrovams jau puikiai pažįstamas ir geriausiai informacinių šou Lietuvoje niuansus įvaldęs duetas - Keitė Arai ir Tomas Ališauskas.</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="TV3">
+    <title lang="lt">Moterys meluoja geriau</title>
+    <desc lang="lt">Kultiniame seriale "Moterys meluoja geriau" ir vėl laukia ne viena intriga! Robertas (akt. N. Gadliauskas) praranda baimės jausmą ir gyvena taip, tarsi kiekviena diena būtų jo paskutinė. Aplinkinius tai veda iš proto – kaip iš mamos sūnelio jis tapo tokiu nutrūktgalviu plevėsa?! O štai kiti dalijasi velionės milijonierės Kristinos (akt. K. Kazlauskaitė) turtą. Deja, ir čia neapsieita be pokštų... Kas nutiko, kad Meda (akt. I. Norkutė) ir Natalija (akt. I. Stasiulytė) iš mirusios tetulės sulaukia vos menkos trobos, kurioje jau ir taip yra gyventojų, o Marijus (akt. R. Rudokas) ir kunigas (Š. Datenis) kartu apsigyvena dvare?!</desc>
+  </programme>
+  <programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="TV3">
+    <title lang="lt">Moterys meluoja geriau</title>
+    <desc lang="lt">Kultiniame seriale "Moterys meluoja geriau" ir vėl laukia ne viena intriga! Robertas (akt. N. Gadliauskas) praranda baimės jausmą ir gyvena taip, tarsi kiekviena diena būtų jo paskutinė. Aplinkinius tai veda iš proto – kaip iš mamos sūnelio jis tapo tokiu nutrūktgalviu plevėsa?! O štai kiti dalijasi velionės milijonierės Kristinos (akt. K. Kazlauskaitė) turtą. Deja, ir čia neapsieita be pokštų... Kas nutiko, kad Meda (akt. I. Norkutė) ir Natalija (akt. I. Stasiulytė) iš mirusios tetulės sulaukia vos menkos trobos, kurioje jau ir taip yra gyventojų, o Marijus (akt. R. Rudokas) ir kunigas (Š. Datenis) kartu apsigyvena dvare?!</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="TV3">
+    <title lang="lt">Meilės sūkuryje</title>
+    <desc lang="lt">Daug meilės ir neapykantos, romantiškų akimirkų ir intrigų, draugystės, ištikimybės išbandymų patiria serialo herojai. Laukia ilgas, kartais skaudus tikrosios meilės paieškų kelias "Meilės sūkuryje".</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="TV3">
+    <title lang="lt">Komisaras Reksas</title>
+    <desc lang="lt">Tikrasis jo vardas Redzinaldas fon Ravenhorstas ir pasaulį jis išvydo elitiniame Vienos šunyne. Jis dirba Vienos policijos Žmogzudyščių tyrimų skyriuje, yra šio skyriaus darbuotojų numylėtinis, meiliai vadinamas komisaru Reksu. Tai drasus ir protingas vilkšunis, tikras Vienos nusikaltelių siaubas. Kai reikia, jis persekioja juos per visa miesta ir suranda netikečiausiose vietose. Daug kartų, rizikuodamas gyvybe, Reksas gelbėjo savo partneriu kailius, bet jis turi ir silpnybių: bijo griaustinio, mėgsta žaislus, ypač sviedinius, o kartais iš bendradarbių nugvelbia bandelę su dešrele. Reksas pradejo dirbti su policininku Michaeliu. Po šio mirties jo seimininku tapo inspektorius Richardas Mozeris. Išgyvenes depresija po Mozerio žūties, Reksas labai susidraugavo su savo naujuoju partneriu Aleksu Brandtneru. Aštuntaji sezona rodomas serialas nepaprastai populiarus. Ji mato net šimto šaliu žiūrovai. O daugelis vaikų, paklausti, kuo garsi Viena, atsako: ,,Tai miestas, kur gyvena komisaras Reksas?".</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="TV3">
+    <title lang="lt">Vardan šeimos</title>
+    <desc lang="lt">Darniai santuokoje gyvenantys Hatidžė ir Velis augina keturis vaikus. Valytoja dirbanti moteris išmaniai naudoja menkus savo ir statybose dirbančio vyro uždirbamus pinigus. Ji stengiasi kurti nuomojamuose namuose jaukią atmosferą, ugdo atžalas skiepydama aukštus dorovės principus. Rūpinimasis vienas kitu yra nuo mažens įskiepytas visiems keturiems jos vaikams. Vieną dieną Hatidžė tampa gėdingo nusikaltimo liudininke. Ji užtinka garsų verslininkas Akifą Atakulą paminant santuokos įžadus ir svetimoteriaujant. Bandydamas išvengti pasekmių, Akifas nutaria pašalinti liudininkę. Jis pasirūpina, kad automobilis, kuriuo važiuos Hatidžė, patektų į autoįvykį. Siaubinga avarija tampa moters mirties priežastimi. Sielvarto apimtas Velis netrukus supranta, kas yra kaltas dėl šios nelaimės ir susitinka su savo žmonos žudiku statybvietėje. Akifas be skrupulų susidoroja ir Veliu, nustumdamas jį nuo namo stogo atbrailos. Statybų aikštelėje nutikęs nelaimingas atsitikimas sukelia daug klausimų, bet Akifas pasinaudoja savo galia, pinigais ir teisininkų komanda, kad nebūtų pripažintas kaltu dėl šio įvykio. Našlaičiais tapę Atakul šeimos vaikai privalo iš naujo kurti savo gyvenimą. Neturėdami nei menkiausių santaupų, Kadiras, Omeras, Asijė ir Emel palieka namus, kuriuose praleido savo laimingą vaikystę. Neturėdama kur eiti, ketveriukė atkeliauja pas savo dėdę Orhaną. Vyras užjaučia našlaičius, bet jo žmona net neketina užleisti savo būsto alkaniems atklydėliams. Ji pasiūlo giminaičiams apsistoti senoje, apgriuvusioje vištidėje. Kadiras puikiai supranta, kad kiauras stogas ir neapšiltintos sienos nebus pats geriausias būstas jam ir jo sesėms, bei broliui. Bet jie neturi kito pasirinkimo, tad įsikuria varganame statinyje. Karidas, kuris po tėvų mirties tampa šeimos galva, yra neįtikėtinai pasiaukojantis, darbštus ir doras vaikinas, pasirengęs atiduoti gyvybę, kad apsaugotų savo jaunesnius brolius ir seseris. Paauglystę išgyvenančiam Omerui sunkiausia susitaikyti su skurdu, o jo karštas būdas dažnai išprovokuoja konfliktines situacijas. Vyresnioji sesuo Asijė - išlieka išdidi net labiausiai gniuždančiose situacijose. Ji labai talentinga ir sąžininga, o mokykloje išsiskiria savo stipriu charakteriu bei gražiu balsu. Jauniausiosi Emel - nekaltumo ir tyrumo įsikūnijimas, tad nenuostabu, kad broliai ir vyresnioji sesuo daro viską, kad apsaugotų mažylę nuo žiaurios realybės. Kiekviena diena atneša vis daugiau iššūkių ir išbandymų, kuriuos alkani, nelaimingi ir vargo prispausti vaikai privalo iškęsti.</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="TV3">
+    <title lang="lt">Vardan šeimos</title>
+    <desc lang="lt">Darniai santuokoje gyvenantys Hatidžė ir Velis augina keturis vaikus. Valytoja dirbanti moteris išmaniai naudoja menkus savo ir statybose dirbančio vyro uždirbamus pinigus. Ji stengiasi kurti nuomojamuose namuose jaukią atmosferą, ugdo atžalas skiepydama aukštus dorovės principus. Rūpinimasis vienas kitu yra nuo mažens įskiepytas visiems keturiems jos vaikams. Vieną dieną Hatidžė tampa gėdingo nusikaltimo liudininke. Ji užtinka garsų verslininkas Akifą Atakulą paminant santuokos įžadus ir svetimoteriaujant. Bandydamas išvengti pasekmių, Akifas nutaria pašalinti liudininkę. Jis pasirūpina, kad automobilis, kuriuo važiuos Hatidžė, patektų į autoįvykį. Siaubinga avarija tampa moters mirties priežastimi. Sielvarto apimtas Velis netrukus supranta, kas yra kaltas dėl šios nelaimės ir susitinka su savo žmonos žudiku statybvietėje. Akifas be skrupulų susidoroja ir Veliu, nustumdamas jį nuo namo stogo atbrailos. Statybų aikštelėje nutikęs nelaimingas atsitikimas sukelia daug klausimų, bet Akifas pasinaudoja savo galia, pinigais ir teisininkų komanda, kad nebūtų pripažintas kaltu dėl šio įvykio. Našlaičiais tapę Atakul šeimos vaikai privalo iš naujo kurti savo gyvenimą. Neturėdami nei menkiausių santaupų, Kadiras, Omeras, Asijė ir Emel palieka namus, kuriuose praleido savo laimingą vaikystę. Neturėdama kur eiti, ketveriukė atkeliauja pas savo dėdę Orhaną. Vyras užjaučia našlaičius, bet jo žmona net neketina užleisti savo būsto alkaniems atklydėliams. Ji pasiūlo giminaičiams apsistoti senoje, apgriuvusioje vištidėje. Kadiras puikiai supranta, kad kiauras stogas ir neapšiltintos sienos nebus pats geriausias būstas jam ir jo sesėms, bei broliui. Bet jie neturi kito pasirinkimo, tad įsikuria varganame statinyje. Karidas, kuris po tėvų mirties tampa šeimos galva, yra neįtikėtinai pasiaukojantis, darbštus ir doras vaikinas, pasirengęs atiduoti gyvybę, kad apsaugotų savo jaunesnius brolius ir seseris. Paauglystę išgyvenančiam Omerui sunkiausia susitaikyti su skurdu, o jo karštas būdas dažnai išprovokuoja konfliktines situacijas. Vyresnioji sesuo Asijė - išlieka išdidi net labiausiai gniuždančiose situacijose. Ji labai talentinga ir sąžininga, o mokykloje išsiskiria savo stipriu charakteriu bei gražiu balsu. Jauniausiosi Emel - nekaltumo ir tyrumo įsikūnijimas, tad nenuostabu, kad broliai ir vyresnioji sesuo daro viską, kad apsaugotų mažylę nuo žiaurios realybės. Kiekviena diena atneša vis daugiau iššūkių ir išbandymų, kuriuos alkani, nelaimingi ir vargo prispausti vaikai privalo iškęsti.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="TV3">
+    <title lang="lt">Domenika Montero</title>
+    <desc lang="lt">Domenika Montero vos septynerių netenka tėvų. Likusi našlaite ji auga tetos Pilar namuose, kur viskuo dalinasi su pussesere Kiara. Deja, nuo pat pirmos dienos Domenikos buvimu šalia nesidžiaugianti Kiara kuria intrigas prieš pusseserę. Sunkios vaikystės patirtis lemia, kad dabar garsi ir gerbiama verslininkė Domenika Montero negaili nei laiko, nei pinigų vargstantiems. Domenika susipažįsta su restoranų savininku Maksu ir jį pamilsta. Vyras dievina Domeniką ir neužilgo pasiperša jai. Neįtardama jokios klastos, Domenika sutinka tapti Makso žmona ir pradeda ruoštis vestuvėms. Ji net nenujaučia, kad Maksas, susimokęs su savo meiluže Kiara, trokšta tik vieno. Vedęs Dominiką jis tiksi pasisavinti visus paveldėtus turtus. Išaušus vestuvių dienai, nuotakos laukia siaubingas išbandymas. Maksas palieka ją prie altoriaus, o pusseserė Kiara netveria džiaugsmu ir paskelbia visos šalies mąstu šią žinią su pasimėgavimu. Kilęs skandalas nežmoniškai sukrečia Dominiką. Moteris nusprendžia pasitraukti iš viešumos. Pažeminta, išduota ir tapusi apkalbų taikiniu, Domenika palieka Pueblą ir prisiglaudžia senoje kavos plantacijoje, kurią paveldėjo iš tėvų. Čia, pasiryžusi viską pradėti iš naujo, ji susiduria su nesąžiningu ūkvedžiu, vykdžiusiu abejotinus sandorius ūkyje. Domenika puikiai supranta, kad teks daug ką pakeisti, kad plantacija suklestėtų. Netrukus Domenika susipažįsta su kaimyninio dvaro savininku Luisu Fernando. Skaudžią praeitį išgyvenęs našlys atvyko čia susigrąžinti tėvui priklausiusią valdą. Tarp Domenikos ir Luiso Fernano užsimezga pagarba ir susižavėjimu grįstas ryšys. Kasdien veldamiesi į ginčus dėl žemių ribų jie taip pat supranta, kad trokšta vieno ir to paties: atkurti savo gyvenimus, išsigydyti praeities žaizdas ir iš naujo patirti laimę. Tačiau vos Domenika pradeda atsiverti Luisui Fernando apie savo jausmus, jos praeitis grįžta su didele griaunamąja jėga. Jos valdose pasirodo Maksas ir pareiškia, kad trokšta susigrąžinti Domenikos meilę.</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="TV3">
+    <title lang="lt">Simpsonai</title>
+    <desc lang="lt">Kas galėjo patikėti, kad dar 1989-aisiais pradėto kurti animacinio serialo herojais taps garsiausios pasaulyje kino, muzikos, mados, politikos, mokslo ir sporto žvaigždės, o bent vieną kartelį pamatyti save animacinį "Simpsonuose" bus prestižo reikalas? Populiariausios pasaulyje šeimos svečiais yra tapę dainininkas Eltonas Johnas, pop princesė Britney Spears, sunkiojo metalo grupė "Metallica", amerikiečių pop punk grupė "Blink 182", "Wikileaks" įkūrėjas Julianas Assange, garsusis britų fizikas ir kosmologas Stephenas Hawkingas, "Hario Poterio" knygų autorė Joanne Rowling ir begalė kitų įžymybių. "Simpsonų" gerbėjų džiaugsmui - TV3 eteryje pasirodys šių dienų pop muzikos diktatore tituluojama animacinė Lady Gaga. Ji ne tik uždainuos, bet ir pademonstruos pasaulinį atgarsį sukėlusius savo apdarus. O juk Homeris nebūtų Homeris, jei nepamėgintų paragauti legendinės Lady Gagos suknelės iš mėsos!</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="TV3">
+    <title lang="lt">Simpsonai</title>
+    <desc lang="lt">Kas galėjo patikėti, kad dar 1989-aisiais pradėto kurti animacinio serialo herojais taps garsiausios pasaulyje kino, muzikos, mados, politikos, mokslo ir sporto žvaigždės, o bent vieną kartelį pamatyti save animacinį "Simpsonuose" bus prestižo reikalas? Populiariausios pasaulyje šeimos svečiais yra tapę dainininkas Eltonas Johnas, pop princesė Britney Spears, sunkiojo metalo grupė "Metallica", amerikiečių pop punk grupė "Blink 182", "Wikileaks" įkūrėjas Julianas Assange, garsusis britų fizikas ir kosmologas Stephenas Hawkingas, "Hario Poterio" knygų autorė Joanne Rowling ir begalė kitų įžymybių. "Simpsonų" gerbėjų džiaugsmui - TV3 eteryje pasirodys šių dienų pop muzikos diktatore tituluojama animacinė Lady Gaga. Ji ne tik uždainuos, bet ir pademonstruos pasaulinį atgarsį sukėlusius savo apdarus. O juk Homeris nebūtų Homeris, jei nepamėgintų paragauti legendinės Lady Gagos suknelės iš mėsos!</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113142700 +0000" channel="TV3">
+    <title lang="lt">TV3 žinios</title>
+    <desc lang="lt">Dinamiška, kiekvienam svarbi, objektyviai ir suprantamai pateikta informacija.</desc>
+  </programme>
+  <programme start="20261113142700 +0000" stop="20261113143000 +0000" channel="TV3">
+    <title lang="lt">TV3 orai</title>
+    <desc lang="lt">Orus pristato sinoptikas Naglis Šulija.</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113155500 +0000" channel="TV3">
+    <title lang="lt">TV pagalba</title>
+    <desc lang="lt">Žiūrovams puikiai pažįstama patikima ir vieninga gelbėtojų komanda skubės į bet kurį Lietuvos kampelį spręsti gyvenimiškų situacijų. "TV Pagalboje" laukia kasdienės šalies aktualijos, karščiausi visuomenės gyvenimo įvykiai. Laidos vedėjas pristatys žiūrovams iškilusias problemas, o gelbėtojų komanda 24 valandas per parą sieks pakeisti susidariusias situacijas, būti įvykių centre ir ieškos teisybės. Pagarba žiūrovui, dėmesys skambinančiam, pagalba jos ieškančiam – šios laidos misija. Laidos studijoje Renata Šakalytė-Jakovleva padės spręsti dalyvių konfliktus, ieškos paramos ir pagalbos nukentėjusiems.</desc>
+  </programme>
+  <programme start="20261113155500 +0000" stop="20261113163000 +0000" channel="TV3">
+    <title lang="lt">Namų idėja su IKEA</title>
+    <desc lang="lt">Net 8 laimingieji galės džiaugtis gyvenamųjų ir verslo erdvių atnaujinimu, kurį IKEA profesionalai sukurs nemokamai. Laidose interjero dizaineriai žiūrovams ne tik atskleis, kad dideliems pokyčiams namuose remontas visai nebūtinas, bet ir į kiekvieno namus sugrąžins tvarką. Juk visai nesvarbu, erdvė didelė ar maža, daugelis iš mūsų susiduria su tuo pačiu iššūkiu: vietos trūkumu tvarkingai laikyti daiktams. Laida kiekvieną sezoną prisitaiko prie aktualijų ir leidžia suprasti, kad kartais tam, kad savo namuose išvystume ryškius pokyčius, tereikia visai nedaug.</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113172000 +0000" channel="TV3">
+    <title lang="lt">TV3 žinios</title>
+    <desc lang="lt">Dinamiška, kiekvienam svarbi, objektyviai ir suprantamai pateikta informacija.</desc>
+  </programme>
+  <programme start="20261113172000 +0000" stop="20261113172700 +0000" channel="TV3">
+    <title lang="lt">TV3 sportas</title>
+    <desc lang="lt">Lietuvos ir pasaulio sporto naujienos.</desc>
+  </programme>
+  <programme start="20261113172700 +0000" stop="20261113173000 +0000" channel="TV3">
+    <title lang="lt">TV3 orai</title>
+    <desc lang="lt">Orus pristato sinoptikas Naglis Šulija.</desc>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113193000 +0000" channel="TV3">
+    <title lang="lt">Raudonoji panda</title>
+    <desc lang="lt">Toronte gyvenanti Mei Li- kaip ir visi paaugliai išgyvena emocijų audras. Mergaitė stengiasi puikiai mokytis, įtikti tėvams ir būti šaunia draugių kompanijoje. Mei šeima prižiūri seniausią miesto šventyklą, skirtą jų promočiutei Sun, turėjusiai ypatingą ryšį su raudonosiomis pandomis. Trylikametė nuo mamos Ming slepia savo asmeninius pomėgius - pavyzdžiui, tai, kad ji ir jos draugės Miriam, Prija bei Abi yra vaikinų grupės "4*Town" gerbėjos. Mergaitė puikiai supranta, kad jos šeimoje nebus palaikomas šiuolaikinės pop kultūros kultas. Kaip bebūtų, Mei stengiasi laviruoti tarp savo tėvų reikalavimų ir savo pačios troškimų. Viskas pasikeičia, kai Mei mama, būdama itin griežta ir globėjiška, viešai sugėdina dukrą prieš jos simpatiją, septyniolikmetį Devoną. Tą vakarą Mei išgyvena stiprią emocinę traumą, o kitą rytą atsibunda pavirtusi milžiniška raudonąja panda. Netrukus mergaitė sužino šeimos paslaptį. Dėl senovinio protėvių palaiminimo, vėliau tapusio tikru prakeiksmu, visos jos giminės moterys, sulaukusios tam tikro amžiaus, stiprių emocijų metu virsta pandomis. Norint pandos dvasią amžiams užrakinti specialiame amulete, reikia atlikti senovinį ritualą. Jis turi būti atliekamas per artimiausią raudonojo mėnulio naktį. Laukdama ritualo, Mei atranda, kad draugių meilė ir palaikymas padeda jai suvaldyti emocijas ir išlikti žmogumi. Maža to, mergaitės sugalvoja planą, kaip išnaudoti pandos populiarumą mokykloje, kad užsidirbtų pinigų bilietams į savo dievinamos vaikinų grupės "4*Town" koncertą. Ji slepia nuo tėvų, kad ketina apsilankyti koncerte. Ir kaip tyčia, šis koncertas vyks būtent tą vakarą, kaip ir numatytas ritualas. Kas nutiks, kai tėvai išsiaiškins jos planą vykti į koncertą? Ar Mei spės išsilaisvinti iš prakeiksmo?</desc>
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113202000 +0000" channel="TV3">
+    <title lang="lt">TV3 vakaro žinios</title>
+    <desc lang="lt">Dinamiška, kiekvienam svarbi, objektyviai ir suprantamai pateikta informacija.</desc>
+  </programme>
+  <programme start="20261113202000 +0000" stop="20261113202700 +0000" channel="TV3">
+    <title lang="lt">TV3 sportas</title>
+    <desc lang="lt">Lietuvos ir pasaulio sporto naujienos.</desc>
+  </programme>
+  <programme start="20261113202700 +0000" stop="20261113203000 +0000" channel="TV3">
+    <title lang="lt">TV3 orai</title>
+    <desc lang="lt">Orus pristato sinoptikas Naglis Šulija.</desc>
+  </programme>
+  <programme start="20261113203000 +0000" stop="20261113230500 +0000" channel="TV3">
+    <title lang="lt">Laivų mūšis</title>
+    <desc lang="lt">Per tarptautines karines pratybas, sąjungininkų laivas patruliuoja jūroje. Vandenyje pastebėję neatpažintą objektą, grupelė kariūnų, vadovaujami Teiloro (akt. Alex Hopper), admirolo (akt. Liam Neeson) įsakymu leidžiasi jo apžiūrėti. Paaiškėja, jog jūroje plūduriuojanti metalo krūva yra kosminis erdvėlaivis, vykdantis savąją misiją. Pažadinę nežemiškas būtybes, pasiruošusias nušluoti viską savo kelyje, kariūnai priversti gintis ir duoti atkirtį ateiviams, ketinantiems žūtbūt užimti Žemę. Prasideda įnirtingas laivų mūšis, kurio baigtis nulems tolesnį planetos likimą.</desc>
   </programme>
   <programme start="20261101011500 +0000" stop="20261101020500 +0000" channel="BTV">
     <title lang="lt">Skubi pagalba</title>
@@ -4525,6 +4756,94 @@
   <programme start="20261112211500 +0000" stop="20261112231000 +0000" channel="BTV">
     <title lang="lt">Po saulėlydžio</title>
     <desc lang="lt">Maksas Burdettas ir jo gražuolė bendrininkė Lola traukiasi į Bahamus, Paradise salą, kur ruošiasi pradėti naują gyvenimą. Jie tik ką pavogė jau antrąjį iš trijų garsiųjų Napoleono deimantų.Tačiau Stanas, FTB agentas, septynerius metus atkakliai persekiojęs Maksą, negali patikėti, kad skandalingoji kriminalinė porelė nutarė pradėti ramų šeimyninį gyvenimą. Jis įsitikinęs, kad jiedu planuoja pavogti trečiąjį Napoleono deimantą, vieną iš didžiausių ir labiausiai vertinamų deimantų pasaulyje.</desc>
+  </programme>
+  <programme start="20261112231000 +0000" stop="20261113002500 +0000" channel="BTV">
+    <title lang="lt">Aš _ žvaigždė... Išleiskite mane!</title>
+    <desc lang="lt">Dvylika įžymybių palikti likimo valiai Australijos džiunglėse. Norėdami gauti maisto, jie turi pereiti įvairius išbandymus, ir fizinius, ir protinius.</desc>
+  </programme>
+  <programme start="20261113002500 +0000" stop="20261113012000 +0000" channel="BTV">
+    <title lang="lt">Žemiau denio</title>
+    <desc lang="lt">Garsiojo realybės šou įgula šiame sezone prisišvartavo prie Australijos krantų. Kaip gyvena ir dirba milijonus dolerių kainuojančios jachtos darbuotojai? Ir kokių atostogų trokšta privačius reisus užsisakantys klientai?</desc>
+  </programme>
+  <programme start="20261113012000 +0000" stop="20261113021000 +0000" channel="BTV">
+    <title lang="lt">Greitojo reagavimo būrys</title>
+    <desc lang="lt">Los Andželo gatvėse vyksta nenutrūkstama gėrio ir blogio kova. Specialusis taktinis padalinys policijos departamente yra atsakingas už krizių valdymą ir taikos palaikymą, bei miestiečių saugumą. Padaliniui vadovaujantis seržantas Danielis Harelsonas išsiskiria profesionalumu. Gimęs ir augęs Los Andžele juodaodis, buvęs jūrų pėstininkas, Danielis jaučiasi labai ištikimas ne tik kolegoms, bet ir žmonėms, kuriems tarnauja. Tai padeda nutiesti supratimo tiltus tarp policijos pajėgų ir bendruomenės, sumažinti įtampą gatvėse. Visi taktiniame padalinyje dirbantys pareigūnai yra savo srities profesionalai ir kiekvieną užduotį vykdo nepriekaištingai tiksliai.</desc>
+  </programme>
+  <programme start="20261113021000 +0000" stop="20261113030000 +0000" channel="BTV">
+    <title lang="lt">Reali mistika</title>
+    <desc lang="lt">Ukrainos televizijos projektas, griaunantis mitus apie paranormalius reiškinius. Patyrusių ir skeptiškai nusiteikusių tyrėjų komanda leisis į šiurpiausias vietas ir atliks stulbinančius eksperimentus, kad įrodytų, jog net ir patys paslaptingiausi reiškiniai gali turėti logišką paaiškinimą.</desc>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113035000 +0000" channel="BTV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Kasdienė populiari naujienų laida, pateikianti svarbiausią ir aktualiausią informaciją iš Lietuvos ir pasaulio. Laidoje – faktai ir komentarai, tiesioginiai reportažai iš įvykių vietų bei išsamios aktualių temų apžvalgos.</desc>
+  </programme>
+  <programme start="20261113035000 +0000" stop="20261113041000 +0000" channel="BTV">
+    <title lang="lt">Pertrauka</title>
+    <desc lang="lt">LIetuviški TV kanalai tiesiogiai internetu bet kokiame įrenginyje. Išbandyk Go3.</desc>
+  </programme>
+  <programme start="20261113041000 +0000" stop="20261113053000 +0000" channel="BTV">
+    <title lang="lt">Mano virtuvė geriausia</title>
+    <desc lang="lt">Penkioliktasis Australijos kulinarinių varžybų šou sezonas. Jų metu kiekviena komanda surengia trijų patiekalų vakarienę teisėjams ir kitoms komandoms iš savo grupės. Jos yra vertinamos ir reitinguojamos. Dvi komandos, surinkusios daugiausiai taškų, patenka į kitą etapą, o mažiausiai taškų surinkusi komanda baigia pasirodymą.</desc>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113063000 +0000" channel="BTV">
+    <title lang="lt">Reali mistika</title>
+    <desc lang="lt">Ukrainos televizijos projektas, griaunantis mitus apie paranormalius reiškinius. Patyrusių ir skeptiškai nusiteikusių tyrėjų komanda leisis į šiurpiausias vietas ir atliks stulbinančius eksperimentus, kad įrodytų, jog net ir patys paslaptingiausi reiškiniai gali turėti logišką paaiškinimą.</desc>
+  </programme>
+  <programme start="20261113063000 +0000" stop="20261113073000 +0000" channel="BTV">
+    <title lang="lt">Kobra 11</title>
+    <desc lang="lt">Su greitkelio nusikaltėliais kovojantys pareigūnai susidurs su didžiausiais iššūkiais: snaiperiu, keršto trokštančiu žudiku, vaikus grobiančia gauja ir kitais. Greitkelio policininkai Semiras Gerkhanas ir Paulas Renneris patruliuoja greičiausiose pasaulio gatvėse ir rizikuoja gyvybe, kad nusikaltėliai neišvengtų bausmės.. Pasiruoškite veiksmo scenoms, kupinoms adrenalino ir jaudulio, neregėtiems kaskadiniams triukams, kvapą gniaužiančioms automobilių gaudynėms ir sprogimams populiariausiame ir ilgiausiai rodomame vokiečių seriale Kobra 11. Serialas rodomas nuo 1996 metų, jau sukurta per 300 serialo epizodų, o specialiai serialui pastatytoje greitkelio atkarpoje – didžiausioje filmavimo aikštelėje pasaulyje – sudaužyta daugiau nei 4000 automobilių.</desc>
+  </programme>
+  <programme start="20261113073000 +0000" stop="20261113083000 +0000" channel="BTV">
+    <title lang="lt">Kodas</title>
+    <desc lang="lt">K.O.D - tai naujas specialus Ukrainos policijos padalinys, suformuotas iš geriausių OSA agentūros ir Vandens policijos specialistų. Spręsdamas itin sudėtingas kriminalines bylas specialusis padalinys naudos dirbtinį intelektą, kuris vadinamas K.O.D.</desc>
+  </programme>
+  <programme start="20261113083000 +0000" stop="20261113093000 +0000" channel="BTV">
+    <title lang="lt">Mentalistas</title>
+    <desc lang="lt">Serialo siužetas sukasi apie Patriką Džeiną, nepriklausomą Kalifornijos tyrimų biuro konsultantą, dėl ypatingo pastabumo sėkmingai atskleidžiantį sunkiausius nusikaltimus. Tarp darbuotojų Džeinas garsėja atsainiu požiūriu į darbo taisykles ir garsenybės praeitimi - kadaise jis buvo žinomas TV aiškiaregys. Patrikas yra šiuolaikinis Šerlokas Holmsas, žmogžudystes tiriantis su polėkiu ir šelmiška dvasia.</desc>
+  </programme>
+  <programme start="20261113093000 +0000" stop="20261113103000 +0000" channel="BTV">
+    <title lang="lt">CSI. Niujorkas</title>
+    <desc lang="lt">"CSI kriminalistų" įkvėpta detektyvinė drama "CSI Niujorkas" pasakoja apie tyrėjus, kurie Didžiajame Obuolyje tiria įkalčius ir narplioja nusikaltimus, pasitelkę šiuolaikiškiausias technologijas. Detektyvas Mekas Teiloras, atsidavęs ir niekad nepasiduodantis nusikaltimo vietos tyrėjas, manantis, kad viskas susiję, ir visi turi savo istoriją, yra apdovanotas jūrų pėstininkas, kuris tarnavo per operaciją Audra dykumoje ir domėjosi karo fotografija. Jo darbas - jo gyvenimas: jis skiria visą savo dėmesį byloms tol, kol jas išnarplioja. Tokia pat meile darbui pasižymi ir jo partnerė Stela Bonasera, daug keliavusi, gerai išsilavinusi detektyvė, našlaitė, prasimušusi nepaisydama sistemos trukdžių. Stela yra visų galų meistrė, jaučianti nenumaldomą troškimą padėti smurtinių nusikaltimų aukoms rasti atsakymus, iš dalies dėl neatsakytų klausimų iš savo pačios praeities. Jiedu vadovauja ekspertų komandai, dirbančiai negailestingame ir dinamiškame mieste, kuris niekada nemiega. Komandai taip pat priklauso šaltakraujiško būdo tyrėjas Denis Meseris. Audringa jo šeimos istorija darbe jam padeda susikurti savą etikos kodeksą. Mekas asmeniškai atrinko Meserį į komandą, todėl tas kasdien stengiasi pateisinti šią garbę ir atsakomybę. Šeldonas Hoksas yra buvęs kriminalistikos laboratorijos koroneris, talentingas mokslų daktaras, neseniai perėjęs į operatyvinę komandą. Jiems padeda iš teisėsaugininkų giminės kilęs Donas Flekas, ūmus, užsispyręs žmogžudysčių skyriaus detektyvas, pasižymintis sumanumu ir puikia intuicija. Paskutinė komandos narė, iš Montanos kilusi Lindsė Monro, išsiskiria savo protu, atkaklumu ir paslaptinga praeitimi. Gal Niujorko kriminalistai dirba šiek tiek kitaip negu Las Vegaso ar Majamio, bet juos į priekį veda tas pats nepalaužiamas ryžtas. Šie įgudę tyrėjai sekdami pagal įkalčius atkuria įvykių eigą, pašalina dvejones ir galiausiai išnarplioja bylas.</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113113000 +0000" channel="BTV">
+    <title lang="lt">Skubi pagalba</title>
+    <desc lang="lt">Kiekvieną dieną JAV pagalbos tarnybos priima tūkstančius skambučių iš nelaimės ištiktų ir pagalbos reikalaujančių asmenų. Tokiais atvejais į pagalbą skuba policija, paramedikai ar ugniagesiai gelbėtojai. Seriale visų šių gelbėjimo tarnybų ir jų darbuotojų kasdienis gyvenimas. Skubios tarnybos operatorius Ebė ne tik siunčia pagalbą, bet ir dažnai dirba kaip psichologas, norėdamas paguosti nelaimės ištiktus žmones. Ebės gyvenimas nėra lengvas - ji prižiūri Alzheimerio liga sergančią motiną. Policijos pareigūnės Atėnės šeima subyra, nes jos vyras prisipažino esąs gėjus. Gaisrinėje dirba visa komanda - kapitonas Bobis, kurio praeityje yra tamsi paslaptis, jis buvęs alkoholikas ir narkomanas. Bobio pavaldiniai Evansas ir Hovis turi savų bėdų. Seriale apžvelgiamas ne tik užimtas gelbėtojų gyvenimas, bet ir jų tarpusavio santykiai bei asmeninio gyvenimo posūkiai.</desc>
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113130000 +0000" channel="BTV">
+    <title lang="lt">Mano virtuvė geriausia</title>
+    <desc lang="lt">Penkioliktasis Australijos kulinarinių varžybų šou sezonas. Jų metu kiekviena komanda surengia trijų patiekalų vakarienę teisėjams ir kitoms komandoms iš savo grupės. Jos yra vertinamos ir reitinguojamos. Dvi komandos, surinkusios daugiausiai taškų, patenka į kitą etapą, o mažiausiai taškų surinkusi komanda baigia pasirodymą.</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="BTV">
+    <title lang="lt">Žemiau denio</title>
+    <desc lang="lt">Garsiojo realybės šou įgula šiame sezone prisišvartavo prie Australijos krantų. Kaip gyvena ir dirba milijonus dolerių kainuojančios jachtos darbuotojai? Ir kokių atostogų trokšta privačius reisus užsisakantys klientai?</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="BTV">
+    <title lang="lt">Kodas</title>
+    <desc lang="lt">K.O.D - tai naujas specialus Ukrainos policijos padalinys, suformuotas iš geriausių OSA agentūros ir Vandens policijos specialistų. Spręsdamas itin sudėtingas kriminalines bylas specialusis padalinys naudos dirbtinį intelektą, kuris vadinamas K.O.D.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="BTV">
+    <title lang="lt">Mentalistas</title>
+    <desc lang="lt">Serialo siužetas sukasi apie Patriką Džeiną, nepriklausomą Kalifornijos tyrimų biuro konsultantą, dėl ypatingo pastabumo sėkmingai atskleidžiantį sunkiausius nusikaltimus. Tarp darbuotojų Džeinas garsėja atsainiu požiūriu į darbo taisykles ir garsenybės praeitimi - kadaise jis buvo žinomas TV aiškiaregys. Patrikas yra šiuolaikinis Šerlokas Holmsas, žmogžudystes tiriantis su polėkiu ir šelmiška dvasia.</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="BTV">
+    <title lang="lt">CSI. Niujorkas</title>
+    <desc lang="lt">"CSI kriminalistų" įkvėpta detektyvinė drama "CSI Niujorkas" pasakoja apie tyrėjus, kurie Didžiajame Obuolyje tiria įkalčius ir narplioja nusikaltimus, pasitelkę šiuolaikiškiausias technologijas. Detektyvas Mekas Teiloras, atsidavęs ir niekad nepasiduodantis nusikaltimo vietos tyrėjas, manantis, kad viskas susiję, ir visi turi savo istoriją, yra apdovanotas jūrų pėstininkas, kuris tarnavo per operaciją Audra dykumoje ir domėjosi karo fotografija. Jo darbas - jo gyvenimas: jis skiria visą savo dėmesį byloms tol, kol jas išnarplioja. Tokia pat meile darbui pasižymi ir jo partnerė Stela Bonasera, daug keliavusi, gerai išsilavinusi detektyvė, našlaitė, prasimušusi nepaisydama sistemos trukdžių. Stela yra visų galų meistrė, jaučianti nenumaldomą troškimą padėti smurtinių nusikaltimų aukoms rasti atsakymus, iš dalies dėl neatsakytų klausimų iš savo pačios praeities. Jiedu vadovauja ekspertų komandai, dirbančiai negailestingame ir dinamiškame mieste, kuris niekada nemiega. Komandai taip pat priklauso šaltakraujiško būdo tyrėjas Denis Meseris. Audringa jo šeimos istorija darbe jam padeda susikurti savą etikos kodeksą. Mekas asmeniškai atrinko Meserį į komandą, todėl tas kasdien stengiasi pateisinti šią garbę ir atsakomybę. Šeldonas Hoksas yra buvęs kriminalistikos laboratorijos koroneris, talentingas mokslų daktaras, neseniai perėjęs į operatyvinę komandą. Jiems padeda iš teisėsaugininkų giminės kilęs Donas Flekas, ūmus, užsispyręs žmogžudysčių skyriaus detektyvas, pasižymintis sumanumu ir puikia intuicija. Paskutinė komandos narė, iš Montanos kilusi Lindsė Monro, išsiskiria savo protu, atkaklumu ir paslaptinga praeitimi. Gal Niujorko kriminalistai dirba šiek tiek kitaip negu Las Vegaso ar Majamio, bet juos į priekį veda tas pats nepalaužiamas ryžtas. Šie įgudę tyrėjai sekdami pagal įkalčius atkuria įvykių eigą, pašalina dvejones ir galiausiai išnarplioja bylas.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="BTV">
+    <title lang="lt">Greitojo reagavimo būrys</title>
+    <desc lang="lt">Los Andželo gatvėse vyksta nenutrūkstama gėrio ir blogio kova. Specialusis taktinis padalinys policijos departamente yra atsakingas už krizių valdymą ir taikos palaikymą, bei miestiečių saugumą. Padaliniui vadovaujantis seržantas Danielis Harelsonas išsiskiria profesionalumu. Gimęs ir augęs Los Andžele juodaodis, buvęs jūrų pėstininkas, Danielis jaučiasi labai ištikimas ne tik kolegoms, bet ir žmonėms, kuriems tarnauja. Tai padeda nutiesti supratimo tiltus tarp policijos pajėgų ir bendruomenės, sumažinti įtampą gatvėse. Visi taktiniame padalinyje dirbantys pareigūnai yra savo srities profesionalai ir kiekvieną užduotį vykdo nepriekaištingai tiksliai.</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="BTV">
+    <title lang="lt">Kobra 11</title>
+    <desc lang="lt">Su greitkelio nusikaltėliais kovojantys pareigūnai susidurs su didžiausiais iššūkiais: snaiperiu, keršto trokštančiu žudiku, vaikus grobiančia gauja ir kitais. Greitkelio policininkai Semiras Gerkhanas ir Paulas Renneris patruliuoja greičiausiose pasaulio gatvėse ir rizikuoja gyvybe, kad nusikaltėliai neišvengtų bausmės.. Pasiruoškite veiksmo scenoms, kupinoms adrenalino ir jaudulio, neregėtiems kaskadiniams triukams, kvapą gniaužiančioms automobilių gaudynėms ir sprogimams populiariausiame ir ilgiausiai rodomame vokiečių seriale Kobra 11. Serialas rodomas nuo 1996 metų, jau sukurta per 300 serialo epizodų, o specialiai serialui pastatytoje greitkelio atkarpoje – didžiausioje filmavimo aikštelėje pasaulyje – sudaužyta daugiau nei 4000 automobilių.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113211000 +0000" channel="BTV">
+    <title lang="lt">Eliziejus</title>
+    <desc lang="lt">2154 metai. Turtingieji gyvena žmonių sukonstruotoje prabangioje kosminėje stotyje, vadinamoje Eliziejumi, o likusieji - nuniokotoje Žemėje. Pastarieji beviltiškai bando pabėgti nuo planetoje siautėjančių nusikaltimų ir skurdo, tačiau Eliziejaus valdžia nelinkusi pagelbėti. Vienas žmogus imasi misijos, kad būtų atkurta lygybė tarp šių nesutaikomų pasaulių. Režisierius ir scenarijaus autorius - Neillas Blomkampas, vaidina Mattas Damonas, Jodie Foster ir kt.</desc>
+  </programme>
+  <programme start="20261113211000 +0000" stop="20261113232500 +0000" channel="BTV">
+    <title lang="lt">Tamsioji banga</title>
+    <desc lang="lt">Biologė Keitė garsėja pasiplaukiojimais vandenyne greta baltųjų ryklių. Po tragiškos partnerio žūties ji atsisakė rizikingų panėrimų ir organizuoja ekskursijas jūroje. Tačiau jos buvusio vyro ir partnerio apsilankymas moterį priverčia mesti iššūkį savo baimėms ir grįžti į gelmę, kur knibžda plėšrūnai. Kokie išbandymai jos laukia? Režisieriaus Johno Stocwello trileris su žaviąją "Oskaro" savininke Halle Berry ir prancūzu Olivie Martinezu.</desc>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101035500 +0000" channel="TV6">
     <title lang="lt">Gero vakaro šou</title>
@@ -5509,6 +5828,98 @@
   <programme start="20261112210000 +0000" stop="20261112231500 +0000" channel="TV6">
     <title lang="lt">Savaitgalis Taipėjuje</title>
     <desc lang="lt">Dirbdamas po priedanga, specialusis agentas Džonas Loloras (akt. Luke Evans) nesugeba susivaldyti ir likti nematomas. Kilus konfliktui restorane jis parodo visus savo kovų menų įgūdžius ir patenka policijos viršininkės nemalonėn. Vyrukui pasiūloma šiek tiek pailsėti, o geriausia - kuo toliau nuo užrūstintų vietos narkotikų prekeivių. Tačiau atvykęs į Taipėjų Džonas nespėja pasimėgauti ramybe, nes čia jį suseka senas sąskaitas norintys suvesti narkomafijos šulai. Prieš penkiolika metų įvykęs susidūrimas neliko užmarštyje, o žiaurusis vadeiva Kvangas (akt. Sung Kang) trokšta kaip reikiant pamokyti Džoną. Sprukdamas nuo ginkluotos gaujos Džonas sužino, kad sena jo meilė Džoja (akt. Gwei Lun-Mei) tapo nekenčiamo Kvango žmona. Dabar mergina dirba išvien su sutuoktiniu ir yra mafijos "transporterė". Miesto gatvės tampa kovos lauku, o naujai užgimę jausmai priverčia Džoną ir Džoją priimti netikėčiausius sprendimus.</desc>
+  </programme>
+  <programme start="20261112231500 +0000" stop="20261113040000 +0000" channel="TV6">
+    <title lang="lt">Įstatymas ir tvarka. Organizuotas nusikalstamumas</title>
+    <desc lang="lt">Praėjus dešimtmečiui po gniuždančios asmeninės netekties, Eliotas Stableris grįžta į darbą Niujorko Policijos departamente. Pasiruošęs visa jėga kovoti su organizuotu nusikalstamumu, jis netrunka suprasti, kad per tuos ilgus metus daug kas pasikeitė teisėsaugos sistemoje. Eliotas privalo prisitaikyti prie pokyčių. Vadovaudamas elitiniam tyrėjų būriui jis atkakliai ardo galingiausius nusikaltėlių sindikatus vieną po kito.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="TV6">
+    <title lang="lt">Detektyvai: 209</title>
+    <desc lang="lt">Serialo veikėjai – policijos partneriai Julius ir Robkė. Julius (aktorius L. Pobedonoscevas) – vyresnis, labiau patyręs, visko matęs ir jau supratęs, kad būti pareigūnu reiškia išnaudoti visą savo laiką ir neuždirbti pinigų. O Robkei (aktorius Deividas Breivė) atrodo, kad policijoje – per daug taisyklių ir per mažai teisingumo. Jų abiejų kantrybės taurė išsenka, kai Julius gauna penkiasdešimties eurų paskatinimą už sėkmingą nusikaltėlių sulaikymą, o Robkei tą pačią dieną įpaišomas trečiasis papeikimas, reiškiantis jo atleidimą iš darbo. Bičiuliams gimsta verslo idėja: jie juk galėtų už atlygį spręsti žmonių problemas, tapti detektyvais. Kiekviena byla, kurios jie imasi, savaip absurdiška, tačiau finalas – panašus. Ir atrodo, kad būtų geriau, jei serialo personažai bylos nebūtų ėmęsi.</desc>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="TV6">
+    <title lang="lt">Detektyvai: 209</title>
+    <desc lang="lt">Serialo veikėjai – policijos partneriai Julius ir Robkė. Julius (aktorius L. Pobedonoscevas) – vyresnis, labiau patyręs, visko matęs ir jau supratęs, kad būti pareigūnu reiškia išnaudoti visą savo laiką ir neuždirbti pinigų. O Robkei (aktorius Deividas Breivė) atrodo, kad policijoje – per daug taisyklių ir per mažai teisingumo. Jų abiejų kantrybės taurė išsenka, kai Julius gauna penkiasdešimties eurų paskatinimą už sėkmingą nusikaltėlių sulaikymą, o Robkei tą pačią dieną įpaišomas trečiasis papeikimas, reiškiantis jo atleidimą iš darbo. Bičiuliams gimsta verslo idėja: jie juk galėtų už atlygį spręsti žmonių problemas, tapti detektyvais. Kiekviena byla, kurios jie imasi, savaip absurdiška, tačiau finalas – panašus. Ir atrodo, kad būtų geriau, jei serialo personažai bylos nebūtų ėmęsi.</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="TV6">
+    <title lang="lt">Laimės namelis</title>
+    <desc lang="lt">Sostinėje gyvenanti porelė nutaria leistis į didžiausią savo gyvenimo nuotykį. Baltarankė Maša pasiduoda mylimojo Makso įtakai ir sutinka drauge vykti į jo močiutės namus gūdžiame kaime. Čia jie pradeda laikyti stručius ir plėtoti šeimos verslą. Maksas mėgaujasi stručių fermos vadovo pareigomis, o Maša ieško būdų, kaip grįžti į didmiestį. Porai pagalbos ranką tiesia kaimynai Vasilijus ir Liuba. Tačiau, gerais norais kelias į pragarą grįstas. Juk tą pačią situaciją kaimo ir miesto žmonės mato skirtingai. Nesusikalbėjimas išprovokuoja virtinę nesusipratimų, komiškų situacijų ir absurdiškų nutikimų!</desc>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="TV6">
+    <title lang="lt">Laimės namelis</title>
+    <desc lang="lt">Sostinėje gyvenanti porelė nutaria leistis į didžiausią savo gyvenimo nuotykį. Baltarankė Maša pasiduoda mylimojo Makso įtakai ir sutinka drauge vykti į jo močiutės namus gūdžiame kaime. Čia jie pradeda laikyti stručius ir plėtoti šeimos verslą. Maksas mėgaujasi stručių fermos vadovo pareigomis, o Maša ieško būdų, kaip grįžti į didmiestį. Porai pagalbos ranką tiesia kaimynai Vasilijus ir Liuba. Tačiau, gerais norais kelias į pragarą grįstas. Juk tą pačią situaciją kaimo ir miesto žmonės mato skirtingai. Nesusikalbėjimas išprovokuoja virtinę nesusipratimų, komiškų situacijų ir absurdiškų nutikimų!</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="TV6">
+    <title lang="lt">Volkeris, Teksaso reindžeris</title>
+    <desc lang="lt">Kordelas Volkeris – vienas geriausių Teksaso reindžerių, tikras įvairaus plauko nusikaltėlių siaubas. Jis ištikimas draugas, vardan bičiulio galintis paaukoti net gyvybę. Tačiau kai susiduria su neteisybe ir prievarta, tampa rūstus, negailestingas ir griežtas. Jis padarys viską, kad nusikaltėlis patektų į kalėjimą... Teksaso reindžerio Volkerio artimiausi pagalbininkai – agentas Džimas Trivetas ir žavioji prokurorė Aleks. Dažnai jiems į pagalbą atskuba ir išėjęs į atsargą policininkas, dabar baro šeimininkas, Parkeris.</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="TV6">
+    <title lang="lt">Volkeris, Teksaso reindžeris</title>
+    <desc lang="lt">Kordelas Volkeris – vienas geriausių Teksaso reindžerių, tikras įvairaus plauko nusikaltėlių siaubas. Jis ištikimas draugas, vardan bičiulio galintis paaukoti net gyvybę. Tačiau kai susiduria su neteisybe ir prievarta, tampa rūstus, negailestingas ir griežtas. Jis padarys viską, kad nusikaltėlis patektų į kalėjimą... Teksaso reindžerio Volkerio artimiausi pagalbininkai – agentas Džimas Trivetas ir žavioji prokurorė Aleks. Dažnai jiems į pagalbą atskuba ir išėjęs į atsargą policininkas, dabar baro šeimininkas, Parkeris.</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="TV6">
+    <title lang="lt">Kobra 11</title>
+    <desc lang="lt">Jų apylinkė - greitkelis. Jų greitis - mirtinas. Jų priešas šiandien nepaprastai greitas ir pavojingas. Kiekviena "Kobros" vyrų operacija labai rizikinga. Daug veiksmo, dar daugiau automobilių, gaudynių ir susišaudymų, pavojų ir teroristų, sprogimų ir milžiniškų autokatasrofų, ir, žinoma, gražių aktorių. Serialą "Kobra 11" vienu metu filmuoja net 16 vaizdo kamerų, o pagrindiniams veikėjams padeda beveik šimtas pagalbinio personalo darbuotojų. Bendras jų darbas ir nepriekaištinga aktorių vaidyba sukuria sunkiai nuo realybės atskiriamą vaizdą, įtraukiantį žiūrovus nuo pirmos iki paskutinės serijos minutės.</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="TV6">
+    <title lang="lt">Kobra 11</title>
+    <desc lang="lt">Jų apylinkė - greitkelis. Jų greitis - mirtinas. Jų priešas šiandien nepaprastai greitas ir pavojingas. Kiekviena "Kobros" vyrų operacija labai rizikinga. Daug veiksmo, dar daugiau automobilių, gaudynių ir susišaudymų, pavojų ir teroristų, sprogimų ir milžiniškų autokatasrofų, ir, žinoma, gražių aktorių. Serialą "Kobra 11" vienu metu filmuoja net 16 vaizdo kamerų, o pagrindiniams veikėjams padeda beveik šimtas pagalbinio personalo darbuotojų. Bendras jų darbas ir nepriekaištinga aktorių vaidyba sukuria sunkiai nuo realybės atskiriamą vaizdą, įtraukiantį žiūrovus nuo pirmos iki paskutinės serijos minutės.</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="TV6">
+    <title lang="lt">Pasmerkti 4</title>
+    <desc lang="lt">Populiarių serialų "Nemylimi" ir "Svetimi" tęsinyje netrūks šaudymų, meilių ir išdavysčių… Aktorės Tomos Vaškevičiūtės veikėja Asta, pastarąjį sezoną "Svetimuose" praradusi ne tik mylimą vyrą Viktorą (aktorius Tadas Gryn), bet ir dukterį, šįkart bandys visomis išgalėmis kabintis į gyvenimą, susigrąžinti pas tėvą pabėgusį vaiką, susitvarkyti buitį. Nors alkoholis ją trauks į gelmę… Viktoras lyg ir susitvarkė gyvenimą - susisuko lizdelį brolio Normanto (aktorius Evaldas Jaras) nupirktame bute. Tačiau jį pradeda lankyti iš kalėjimo grįžę draugai, ko visiškai netoleruoja nauja mylimoji. Beje, ją vaidinanti Gabrielė Bartkutė šį sezoną į filmavimus skraido iš Vokietijos, kur dabar gyvena.</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="TV6">
+    <title lang="lt">Pasmerkti 4</title>
+    <desc lang="lt">Populiarių serialų "Nemylimi" ir "Svetimi" tęsinyje netrūks šaudymų, meilių ir išdavysčių… Aktorės Tomos Vaškevičiūtės veikėja Asta, pastarąjį sezoną "Svetimuose" praradusi ne tik mylimą vyrą Viktorą (aktorius Tadas Gryn), bet ir dukterį, šįkart bandys visomis išgalėmis kabintis į gyvenimą, susigrąžinti pas tėvą pabėgusį vaiką, susitvarkyti buitį. Nors alkoholis ją trauks į gelmę… Viktoras lyg ir susitvarkė gyvenimą - susisuko lizdelį brolio Normanto (aktorius Evaldas Jaras) nupirktame bute. Tačiau jį pradeda lankyti iš kalėjimo grįžę draugai, ko visiškai netoleruoja nauja mylimoji. Beje, ją vaidinanti Gabrielė Bartkutė šį sezoną į filmavimus skraido iš Vokietijos, kur dabar gyvena.</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="TV6">
+    <title lang="lt">Įstatymas ir tvarka. Organizuotas nusikalstamumas</title>
+    <desc lang="lt">Praėjus dešimtmečiui po gniuždančios asmeninės netekties, Eliotas Stableris grįžta į darbą Niujorko Policijos departamente. Pasiruošęs visa jėga kovoti su organizuotu nusikalstamumu, jis netrunka suprasti, kad per tuos ilgus metus daug kas pasikeitė teisėsaugos sistemoje. Eliotas privalo prisitaikyti prie pokyčių. Vadovaudamas elitiniam tyrėjų būriui jis atkakliai ardo galingiausius nusikaltėlių sindikatus vieną po kito.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="TV6">
+    <title lang="lt">Volkeris, Teksaso reindžeris</title>
+    <desc lang="lt">Kordelas Volkeris – vienas geriausių Teksaso reindžerių, tikras įvairaus plauko nusikaltėlių siaubas. Jis ištikimas draugas, vardan bičiulio galintis paaukoti net gyvybę. Tačiau kai susiduria su neteisybe ir prievarta, tampa rūstus, negailestingas ir griežtas. Jis padarys viską, kad nusikaltėlis patektų į kalėjimą... Teksaso reindžerio Volkerio artimiausi pagalbininkai – agentas Džimas Trivetas ir žavioji prokurorė Aleks. Dažnai jiems į pagalbą atskuba ir išėjęs į atsargą policininkas, dabar baro šeimininkas, Parkeris.</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="TV6">
+    <title lang="lt">Volkeris, Teksaso reindžeris</title>
+    <desc lang="lt">Kordelas Volkeris – vienas geriausių Teksaso reindžerių, tikras įvairaus plauko nusikaltėlių siaubas. Jis ištikimas draugas, vardan bičiulio galintis paaukoti net gyvybę. Tačiau kai susiduria su neteisybe ir prievarta, tampa rūstus, negailestingas ir griežtas. Jis padarys viską, kad nusikaltėlis patektų į kalėjimą... Teksaso reindžerio Volkerio artimiausi pagalbininkai – agentas Džimas Trivetas ir žavioji prokurorė Aleks. Dažnai jiems į pagalbą atskuba ir išėjęs į atsargą policininkas, dabar baro šeimininkas, Parkeris.</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="TV6">
+    <title lang="lt">Juokingiausi Amerikos namų vaizdeliai</title>
+    <desc lang="lt">Jau keletą dešimtmečių visą pasaulį linksmina smagūs vaizdeliai, kuriuos užfiksavo paprasti žmonės, tokie pat kaip mes. Juokingi nutikimai per vestuves, gimtadienius ir kitas šeimynines šventes, kvaili pokštai ir pašėlę juokeliai, sužlugę koncertai ar netikėtai nutrūkę šokių vakarai - ši laida patiks visiems, kas mėgsta skaniai pasijuokti.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="TV6">
+    <title lang="lt">Kobra 11</title>
+    <desc lang="lt">Jų apylinkė - greitkelis. Jų greitis - mirtinas. Jų priešas šiandien nepaprastai greitas ir pavojingas. Kiekviena "Kobros" vyrų operacija labai rizikinga. Daug veiksmo, dar daugiau automobilių, gaudynių ir susišaudymų, pavojų ir teroristų, sprogimų ir milžiniškų autokatasrofų, ir, žinoma, gražių aktorių. Serialą "Kobra 11" vienu metu filmuoja net 16 vaizdo kamerų, o pagrindiniams veikėjams padeda beveik šimtas pagalbinio personalo darbuotojų. Bendras jų darbas ir nepriekaištinga aktorių vaidyba sukuria sunkiai nuo realybės atskiriamą vaizdą, įtraukiantį žiūrovus nuo pirmos iki paskutinės serijos minutės.</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="TV6">
+    <title lang="lt">Kobra 11</title>
+    <desc lang="lt">Jų apylinkė - greitkelis. Jų greitis - mirtinas. Jų priešas šiandien nepaprastai greitas ir pavojingas. Kiekviena "Kobros" vyrų operacija labai rizikinga. Daug veiksmo, dar daugiau automobilių, gaudynių ir susišaudymų, pavojų ir teroristų, sprogimų ir milžiniškų autokatasrofų, ir, žinoma, gražių aktorių. Serialą "Kobra 11" vienu metu filmuoja net 16 vaizdo kamerų, o pagrindiniams veikėjams padeda beveik šimtas pagalbinio personalo darbuotojų. Bendras jų darbas ir nepriekaištinga aktorių vaidyba sukuria sunkiai nuo realybės atskiriamą vaizdą, įtraukiantį žiūrovus nuo pirmos iki paskutinės serijos minutės.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="TV6">
+    <title lang="lt">Pasmerkti 4</title>
+    <desc lang="lt">Populiarių serialų "Nemylimi" ir "Svetimi" tęsinyje netrūks šaudymų, meilių ir išdavysčių… Aktorės Tomos Vaškevičiūtės veikėja Asta, pastarąjį sezoną "Svetimuose" praradusi ne tik mylimą vyrą Viktorą (aktorius Tadas Gryn), bet ir dukterį, šįkart bandys visomis išgalėmis kabintis į gyvenimą, susigrąžinti pas tėvą pabėgusį vaiką, susitvarkyti buitį. Nors alkoholis ją trauks į gelmę… Viktoras lyg ir susitvarkė gyvenimą - susisuko lizdelį brolio Normanto (aktorius Evaldas Jaras) nupirktame bute. Tačiau jį pradeda lankyti iš kalėjimo grįžę draugai, ko visiškai netoleruoja nauja mylimoji. Beje, ją vaidinanti Gabrielė Bartkutė šį sezoną į filmavimus skraido iš Vokietijos, kur dabar gyvena.</desc>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="TV6">
+    <title lang="lt">Pasmerkti 4</title>
+    <desc lang="lt">Populiarių serialų "Nemylimi" ir "Svetimi" tęsinyje netrūks šaudymų, meilių ir išdavysčių… Aktorės Tomos Vaškevičiūtės veikėja Asta, pastarąjį sezoną "Svetimuose" praradusi ne tik mylimą vyrą Viktorą (aktorius Tadas Gryn), bet ir dukterį, šįkart bandys visomis išgalėmis kabintis į gyvenimą, susigrąžinti pas tėvą pabėgusį vaiką, susitvarkyti buitį. Nors alkoholis ją trauks į gelmę… Viktoras lyg ir susitvarkė gyvenimą - susisuko lizdelį brolio Normanto (aktorius Evaldas Jaras) nupirktame bute. Tačiau jį pradeda lankyti iš kalėjimo grįžę draugai, ko visiškai netoleruoja nauja mylimoji. Beje, ją vaidinanti Gabrielė Bartkutė šį sezoną į filmavimus skraido iš Vokietijos, kur dabar gyvena.</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="TV6">
+    <title lang="lt">Farai</title>
+    <desc lang="lt">Realybės dokumentika "Farai" iš arti atskleidžia sudėtingą Lietuvos policijos darbą. Pilietiškai skatinami elgtis ir laidos žiūrovai - neužsimerkti, nepraeiti pro šalį, o apie įtartinus asmenis pranešti policijai. Naujajame laidos sezone žiūrovai pamatys, su kokiais iššūkiais susiduria skirtingos policijos tarnybos: kinologai, raitoji policija ar netgi nežymėtų policijos automobilių patruliai. Ištikimų laidos gerbėjų laukia dar stipresni įspūdžiai - sudėtingos situacijos, nenuspėjamas įtariamųjų elgesys, gaudynės, pasipriešinimas, draudžiami daiktai, narkotinės medžiagos bei žaibiški ir profesionalūs pareigūnų veiksmai nė vieno žiūrovo nepaliks abejingo.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="TV6">
+    <title lang="lt">Farai</title>
+    <desc lang="lt">Realybės dokumentika "Farai" iš arti atskleidžia sudėtingą Lietuvos policijos darbą. Pilietiškai skatinami elgtis ir laidos žiūrovai - neužsimerkti, nepraeiti pro šalį, o apie įtartinus asmenis pranešti policijai. Naujajame laidos sezone žiūrovai pamatys, su kokiais iššūkiais susiduria skirtingos policijos tarnybos: kinologai, raitoji policija ar netgi nežymėtų policijos automobilių patruliai. Ištikimų laidos gerbėjų laukia dar stipresni įspūdžiai - sudėtingos situacijos, nenuspėjamas įtariamųjų elgesys, gaudynės, pasipriešinimas, draudžiami daiktai, narkotinės medžiagos bei žaibiški ir profesionalūs pareigūnų veiksmai nė vieno žiūrovo nepaliks abejingo.</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113222500 +0000" channel="TV6">
+    <title lang="lt">galvOK</title>
+    <desc lang="lt">Žaidimas "galvOK" tapo linksmu šeštadienio įpročiu - žiūrovai kviečiami praleisti vakarą prasmingai, atsakinėjant į neįtikėtinus, keistus, o kartais ir labai juokingus klausimus. Tačiau šį rudenį projektas grįžta atsinaujinęs - prie ilgamečio kapitono Manto Katlerio prisijungs azartiškasis žaidimų fanas Mindaugas Stasiulis. Kartu su laidos svečiais jie bandys atsakyti į kuo daugiau klausimų, o už kiekvieną teisingą atsakymą laimėtus pinigus pasidalinti su už nugaros sėdėjusiais žiūrovais. Puiki nuotaika, jaudinanti įtampa ir smagus šeštadienio vakaras kaip ir visuomet - garantuotas!</desc>
+  </programme>
+  <programme start="20261113222500 +0000" stop="20261114043000 +0000" channel="TV6">
+    <title lang="lt">Slaptas keleivis</title>
+    <desc lang="lt">Maiklas (akt. Liam'as Neeson'as) yra draudimo agentas, mylintis ir mylimas vyras bei tėvas. Jis jau dešimt metų į darbą ir iš jo kasdien vyksta tuo pačiu traukiniu. Tačiau vieną dieną viskas pasikeičia. Traukinyje prie Maiklo prisėda žavi nepažįstamoji (akt. Vera Farmiga). Prisistačiusi psichologe, studijuojančia žmonių elgseną, Džoana įtraukia Maiklą į pokalbį. Ir netrukus jam pasiūlo eksperimentą: surasti traukinyje žmogų, kurio neturėtų čia būti. Iš pradžių galvojęs, jog tai - kažkoks nevykęs pokštas, netrukus Maiklas pakeičia nuomonę. Vadovaudamasis moters instrukcijomis ir tualete radęs žadėtus 75 tūkstančius dolerių, vyras įsitikina, kad eksperimentas tikras ir jis privalo rasti traukinyje žmogų, kurio čia neturėtų būti. Jei nori gauti pinigus, užduotį jis turi atlikti prieš traukiniui pasiekiant paskutinę stotelę.</desc>
   </programme>
   <programme start="20261101010500 +0000" stop="20261101015500 +0000" channel="TV1">
     <title lang="lt">Beržerakas</title>
@@ -6569,6 +6980,114 @@
   <programme start="20261112222000 +0000" stop="20261112232500 +0000" channel="TV1">
     <title lang="lt">Gėlės virš pragaro</title>
     <desc lang="lt">Kriminalinis serialas, kurio veiksmas vyksta atokiame Italijos Alpių kaimelyje. Istorija sukasi apie inspektorę Teresą Battaglia, detektyvę su solidžia patirtimi, kuri tiria seriją žiaurių žmogžudysčių. Teresa, kovodama su savo sveikatos problemomis, turi susidurti ir su tamsiąja praeitimi bei žudiku, kuris taikosi į vietinius vaikus.</desc>
+  </programme>
+  <programme start="20261112232500 +0000" stop="20261113003000 +0000" channel="TV1">
+    <title lang="lt">Gėlės virš pragaro</title>
+    <desc lang="lt">Kriminalinis serialas, kurio veiksmas vyksta atokiame Italijos Alpių kaimelyje. Istorija sukasi apie inspektorę Teresą Battaglia, detektyvę su solidžia patirtimi, kuri tiria seriją žiaurių žmogžudysčių. Teresa, kovodama su savo sveikatos problemomis, turi susidurti ir su tamsiąja praeitimi bei žudiku, kuris taikosi į vietinius vaikus.</desc>
+  </programme>
+  <programme start="20261113003000 +0000" stop="20261113012000 +0000" channel="TV1">
+    <title lang="lt">Leila</title>
+    <desc lang="lt">Po tėvo žūties, pamotė paliko Leilą. Mergaitė užauga ir netrukus grįžta, norėdama atkeršyti. Tačiau ne tokią kelionę ji planavo. Leila sutinka tikrąją meilę ir tai pasėja dvejonę jos širdyje. Ar ji išdrįs kovoti su moterimi, kuri sugriovė jos gyvenimą?</desc>
+  </programme>
+  <programme start="20261113012000 +0000" stop="20261113020500 +0000" channel="TV1">
+    <title lang="lt">Meilės spąstai</title>
+    <desc lang="lt">Romantikos ir švelnaus humoro prisotintas turkų draminis serialas pasakoja Aišės - geraširdės, bet ambicingos jaunos tekstilės darbuotojos - ir Keremo - nerūpestingo, žavaus mados imperijos paveldėtojo - istoriją. Dėl virtinės nesusipratimų jiedu įsipainioja į vienas kito gyvenimus priversti sudaryti fiktyvią santuoką, kad apsaugotų savo reputaciją. Kokių netikėtų vingių jiems dar atseikės likimas?</desc>
+  </programme>
+  <programme start="20261113020500 +0000" stop="20261113032000 +0000" channel="TV1">
+    <title lang="lt">Ūkininkas ieško žmonos</title>
+    <desc lang="lt">Visame pasaulyje populiarus pasimatymų šou. Penki vieniši australai, kaimo vaikinai, ieško savo gyvenimo meilės. Su ūkininkais trokš susipažinti būrys vienišų miestiečių merginų, jos eis į pasimatymus, o labiausiai patikusias vaikinai pakvies apsigyventi savo ūkyje, kad geriau su jomis susipažintų. Tada ūkininkas išsirinks tą vienintelę, su kuria norės tęsti pažintį.</desc>
+  </programme>
+  <programme start="20261113032000 +0000" stop="20261113040000 +0000" channel="TV1">
+    <title lang="lt">Pertrauka</title>
+    <desc lang="lt">LIetuviški TV kanalai tiesiogiai internetu bet kokiame įrenginyje. Išbandyk Go3.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="TV1">
+    <title lang="lt">Kakava</title>
+    <desc lang="lt">"Cacau" – tai pasakojimas, kurio veiksmas vyksta dviejuose žemynuose: Portugalijoje ir Brazilijoje. Siužetas pasakoja apie jaunos merginos, gyvenančios ūkyje Itakarėje, Bahijoje, su savo portugalų tėvais Joaquimu ir Filomena, turtingo savininko Justino patikimais žmonėmis, gyvenimą. Cacau svajoja gauti šokolado gamybos diplomą, tačiau jai trūksta pinigų tai padaryti. Viskas pasikeičia, kai jos tėvas sulaužo seną susitarimą ir atskleidžia savo tikrąją tapatybę, o Justino sužino, kad turėjo dukrą su kita moterimi. Šis atskleidimas išprovokuoja intrigų ir konfliktų seriją, kuri kelia grėsmę šeimos palikimui, nes Cacau tampa grėsme kitiems paveldėtojams.</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="TV1">
+    <title lang="lt">Meilės spąstai</title>
+    <desc lang="lt">Romantikos ir švelnaus humoro prisotintas turkų draminis serialas pasakoja Aišės - geraširdės, bet ambicingos jaunos tekstilės darbuotojos - ir Keremo - nerūpestingo, žavaus mados imperijos paveldėtojo - istoriją. Dėl virtinės nesusipratimų jiedu įsipainioja į vienas kito gyvenimus priversti sudaryti fiktyvią santuoką, kad apsaugotų savo reputaciją. Kokių netikėtų vingių jiems dar atseikės likimas?</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="TV1">
+    <title lang="lt">Akloji</title>
+    <desc lang="lt">Kai įprasti sprendimai nepadeda, žmonės kreipiasi į paslaptingą aiškiaregę, gebančią įžvelgti tai, kas paslėpta nuo kitų akių. Ji padeda atskleisti melo, išdavysčių ir nelaimių priežastis, tačiau jos įžvalgos ne visada atneša lengvus atsakymus. Kiekviena istorija atskleidžia paslaptį, galinčią pakeisti žmogaus gyvenimą.</desc>
+  </programme>
+  <programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="TV1">
+    <title lang="lt">Akloji</title>
+    <desc lang="lt">Šio mistinio serialo istorijos paimtos iš realaus aiškiarėgės Ninos, kuri yra lyginama su garsiąja Vanga, gyvenimo. Kiekviena serija pasakoja vis naują istoriją, kurioje Nina kas kartą į ją besikreipiantiems žmonėms įkvėps vilties ir palaikymo. Ir nors nuošaliame kaimelyje gyvenanti senolė vengia žmonių dėmesio, ji niekam neatsako padėti.</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="TV1">
+    <title lang="lt">Leila</title>
+    <desc lang="lt">Po tėvo žūties, pamotė paliko Leilą. Mergaitė užauga ir netrukus grįžta, norėdama atkeršyti. Tačiau ne tokią kelionę ji planavo. Leila sutinka tikrąją meilę ir tai pasėja dvejonę jos širdyje. Ar ji išdrįs kovoti su moterimi, kuri sugriovė jos gyvenimą?</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="TV1">
+    <title lang="lt">"Velvet". Nauja imperija</title>
+    <desc lang="lt">Siuvėja ir "Galerías Velvet" paveldėtojas siekia uždraustos meilės, o tai išryškina problemas, su kuriomis Amerikoje susiduria įvairių kartų lotynų amerikiečiai mados ir kasdienio gyvenimo srityse. Kokius pavojus slepia mados imperijos glėbys? Kuo baigsis verslui nepatogi dviejų žmonių meilė?</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="TV1">
+    <title lang="lt">Einšteinas</title>
+    <desc lang="lt">Feliksas - jauniausias teorinės fizikos profesorius universitete ir mokslininko Einšteino pro proanūkis. Iš pirmo žvilgsnio jis linksmas ir nerūpestingas vyrukas. Tačiau Felikas sunkiai serga ir gali būti, kad senatvės nebesulauks. Pašėlęs Felikso būdas įklampiną jaunąjį profesorių į problemas su teisėsauga. Kodėl Feliksas bus priverstas dirbti policijos pagalbininku ir kaip jam seksis, sužinosite komiškame seriale.</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="TV1">
+    <title lang="lt">Rezidentas</title>
+    <desc lang="lt">Idealizmo kupinas jaunasis gydytojas Devonas Pravešas pradeda pirmuosius metus Atlantos ligoninėje, Džordžijos valstijoje. Jam vadovauja trečiakursis rezidentas Konradas Hokinsas - gudrus, greitas ir šiek tiek kitaip nei Devonas apie mediciną galvojantis gydytojas. Jis teigia, kad gydymas iš tikro visai kitoks nei rašoma vadovėliuose, ir jei nori būti geras daktaras, mokytis turi ne iš knygų. Padėti pacientams - daug būdų, bet, kaip sako Konradas, niekas nemoko, kad dar daugiau būdų yra jiems pakenkti. Kaip to išvengti? Ar nuslėpti gydymo klaidas, ar susitaikyti su faktu, kad tai tik darbas? Devonui teks nagrinėti ne tik žmogaus anatomiją, bet ir etines dilemas. Pamačius vyresnius gydytojus tampa daugiau nei aišku, kad nė vienas iš jų nėra be nuodėmės, ypač gydytojas Belas. Ar išduoti jo paslaptis? Devoną vaidina Roshanas Sethis iš filmų "Šimto žingsnių kelionė" ir "Agentūra S.K.Y.D.A.S.", Konradą - Mattas Czuchry iš serialo "Gera žmona", jo meilės objektą, seselę Nikoletę - serialo "Kerštas" žvaigždė, o daktarą Belą - Bruce'as Greenwoodas, žinomas iš filmų "Skrydis", "Niujorko šešėlis" ir serialo "Reklamos vilkai".</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="TV1">
+    <title lang="lt">Įstatymas ir tvarka. Specialiųjų tyrimų skyrius</title>
+    <desc lang="lt">Šis amerikiečių policijos procedūrinis serialas pasakoja apie Niujorke veikiančią Specialiųjų aukų skyrių (SVU). SVU – tai atrinkta Niujorko policijos departamento (NYPD) detektyvų komanda, kuriai tenka tirti įvairius šokiruojančius ir neapsakomus seksualinius nusikaltimus. Ši ilgai rodoma serialo serija, populiarios kriminalinės dramos "Law &amp; Order" atšaka, vaizduoja sudėtingas bylas, įskaitant išžaginimus, pedofiliją, pagrobimus, vaikų išnaudojimą ir smurtą šeimoje. Kartais, semdamiesi įkvėpimo iš realaus gyvenimo, epizodai laisvai remiasi tikrais nusikaltimais.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="TV1">
+    <title lang="lt">Užjūrio detektyvai</title>
+    <desc lang="lt">Veiksmas vyksta Karibų rojaus saloje Martinikoje. Istorijos centre dviejų moterų tyrėjų istorija. Melisa, vieniša motina, kuri, nors ir gimusi Martinikoje, prieš kurį laiką išvyko į Prancūziją ir tik neseniai grįžo, ir Gaelle, užsispyrusi trisdešimtmetė, kuri salą pažįsta kaip savo penkis pirštus. Tarp įtampos ir juoko, šis prancūziškas kriminalinis serialas mus įtraukia į įdomią ir linksmą žmogžudystės mįslę.</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133500 +0000" channel="TV1">
+    <title lang="lt">Anupama</title>
+    <desc lang="lt">Ji daug paaukojo, kad taptų ištikima žmona, atsidavusia marčia ir mylinčia motina, o mainais pelnė didžiulę nepagarbą. Nepaisydama karčios tiesos, ji stengsis gyventi toliau.</desc>
+  </programme>
+  <programme start="20261113133500 +0000" stop="20261113143000 +0000" channel="TV1">
+    <title lang="lt">Likimo seserys</title>
+    <desc lang="lt">Dvi seserys ir du skirtingi jų likimai. Vyresnioji, paaukojusi savo gyvenimą šeimai ir vyrui, siekia apsaugoti jaunėlę nuo klaidų. Jos didžiausia svajonė - išleisti seserį už mylinčio, pagarbaus vyro ir apsaugoti nuo sunkios moters tarnystės. Ar seserims pavyks pasipriešinti nepalankioms šeimos tradicijoms?</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="TV1">
+    <title lang="lt">Akloji</title>
+    <desc lang="lt">Kai įprasti sprendimai nepadeda, žmonės kreipiasi į paslaptingą aiškiaregę, gebančią įžvelgti tai, kas paslėpta nuo kitų akių. Ji padeda atskleisti melo, išdavysčių ir nelaimių priežastis, tačiau jos įžvalgos ne visada atneša lengvus atsakymus. Kiekviena istorija atskleidžia paslaptį, galinčią pakeisti žmogaus gyvenimą.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="TV1">
+    <title lang="lt">Akloji</title>
+    <desc lang="lt">Šio mistinio serialo istorijos paimtos iš realaus aiškiarėgės Ninos, kuri yra lyginama su garsiąja Vanga, gyvenimo. Kiekviena serija pasakoja vis naują istoriją, kurioje Nina kas kartą į ją besikreipiantiems žmonėms įkvėps vilties ir palaikymo. Ir nors nuošaliame kaimelyje gyvenanti senolė vengia žmonių dėmesio, ji niekam neatsako padėti.</desc>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="TV1">
+    <title lang="lt">Akloji</title>
+    <desc lang="lt">Šio mistinio serialo istorijos paimtos iš realaus aiškiarėgės Ninos, kuri yra lyginama su garsiąja Vanga, gyvenimo. Kiekviena serija pasakoja vis naują istoriją, kurioje Nina kas kartą į ją besikreipiantiems žmonėms įkvėps vilties ir palaikymo. Ir nors nuošaliame kaimelyje gyvenanti senolė vengia žmonių dėmesio, ji niekam neatsako padėti.</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="TV1">
+    <title lang="lt">Pirmieji pasimatymai</title>
+    <desc lang="lt">Akli pirmieji pasimatymai visuomet kelia stresą - ar jaudulys nepakiš kojos, ar bus apie ką kalbėtis, ar partneris nenuvils? Realybės šou, kuriame nejaukias akimirkas keičia juokingi nutikimai, abejingumą - aistringi susižavėjimai. Nuotaikingas, netikėtų situacijų, nusikalbėjimų, susikalbėjimų ir šokiruojančių prisipažinimų kupinas šou. Ar pirmas pasimatymas netaps paskutiniu?</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="TV1">
+    <title lang="lt">Rezidentas</title>
+    <desc lang="lt">Idealizmo kupinas jaunasis gydytojas Devonas Pravešas pradeda pirmuosius metus Atlantos ligoninėje, Džordžijos valstijoje. Jam vadovauja trečiakursis rezidentas Konradas Hokinsas - gudrus, greitas ir šiek tiek kitaip nei Devonas apie mediciną galvojantis gydytojas. Jis teigia, kad gydymas iš tikro visai kitoks nei rašoma vadovėliuose, ir jei nori būti geras daktaras, mokytis turi ne iš knygų. Padėti pacientams - daug būdų, bet, kaip sako Konradas, niekas nemoko, kad dar daugiau būdų yra jiems pakenkti. Kaip to išvengti? Ar nuslėpti gydymo klaidas, ar susitaikyti su faktu, kad tai tik darbas? Devonui teks nagrinėti ne tik žmogaus anatomiją, bet ir etines dilemas. Pamačius vyresnius gydytojus tampa daugiau nei aišku, kad nė vienas iš jų nėra be nuodėmės, ypač gydytojas Belas. Ar išduoti jo paslaptis? Devoną vaidina Roshanas Sethis iš filmų "Šimto žingsnių kelionė" ir "Agentūra S.K.Y.D.A.S.", Konradą - Mattas Czuchry iš serialo "Gera žmona", jo meilės objektą, seselę Nikoletę - serialo "Kerštas" žvaigždė, o daktarą Belą - Bruce'as Greenwoodas, žinomas iš filmų "Skrydis", "Niujorko šešėlis" ir serialo "Reklamos vilkai".</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="TV1">
+    <title lang="lt">Įstatymas ir tvarka. Specialiųjų tyrimų skyrius</title>
+    <desc lang="lt">Šis amerikiečių policijos procedūrinis serialas pasakoja apie Niujorke veikiančią Specialiųjų aukų skyrių (SVU). SVU – tai atrinkta Niujorko policijos departamento (NYPD) detektyvų komanda, kuriai tenka tirti įvairius šokiruojančius ir neapsakomus seksualinius nusikaltimus. Ši ilgai rodoma serialo serija, populiarios kriminalinės dramos "Law &amp; Order" atšaka, vaizduoja sudėtingas bylas, įskaitant išžaginimus, pedofiliją, pagrobimus, vaikų išnaudojimą ir smurtą šeimoje. Kartais, semdamiesi įkvėpimo iš realaus gyvenimo, epizodai laisvai remiasi tikrais nusikaltimais.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113195000 +0000" channel="TV1">
+    <title lang="lt">Beržerakas</title>
+    <desc lang="lt">Buvęs policininkas Džimas Bergerakas priverstas susidurti su nerimą keliančia praeities byla, kai nužudoma turtinga moteris. Tai verčia jį įveikti asmeninius demonus ir vėl pasitelkti savo tyrimo įgūdžius. Kaip susidoroti su įtampa šeimoje ir suvokti žudiko klastą?</desc>
+  </programme>
+  <programme start="20261113195000 +0000" stop="20261113205000 +0000" channel="TV1">
+    <title lang="lt">Beržerakas</title>
+    <desc lang="lt">Buvęs policininkas Džimas Bergerakas priverstas susidurti su nerimą keliančia praeities byla, kai nužudoma turtinga moteris. Tai verčia jį įveikti asmeninius demonus ir vėl pasitelkti savo tyrimo įgūdžius. Kaip susidoroti su įtampa šeimoje ir suvokti žudiko klastą?</desc>
+  </programme>
+  <programme start="20261113205000 +0000" stop="20261113215500 +0000" channel="TV1">
+    <title lang="lt">Užjūrio detektyvai</title>
+    <desc lang="lt">Veiksmas vyksta Karibų rojaus saloje Martinikoje. Istorijos centre dviejų moterų tyrėjų istorija. Melisa, vieniša motina, kuri, nors ir gimusi Martinikoje, prieš kurį laiką išvyko į Prancūziją ir tik neseniai grįžo, ir Gaelle, užsispyrusi trisdešimtmetė, kuri salą pažįsta kaip savo penkis pirštus. Tarp įtampos ir juoko, šis prancūziškas kriminalinis serialas mus įtraukia į įdomią ir linksmą žmogžudystės mįslę.</desc>
+  </programme>
+  <programme start="20261113215500 +0000" stop="20261113230000 +0000" channel="TV1">
+    <title lang="lt">Spąstai</title>
+    <desc lang="lt">Islandijos detektyvinė drama pasakoja apie policijos viršininką mažame miestelyje toli Islandijos šiaurėje. Jis tiria buvusio miestelio gyventojo žmogžudystės bylą – žvejai iš jūros ištraukė jo sudarkytą lavoną. Jis ir kiti policininkai lieka įstrigę dėl blogų oro sąlygų, kai miestelį užklumpa galinga audra. Pagrindinis įtariamasis yra miręs, o anksčiau ramioje ir taurioje gyvenvietėje vienas po kito pradeda vykti keisti ir bauginantys įvykiai.</desc>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101003000 +0000" channel="Lietuvos ryto TV">
     <title lang="lt">Pokalbiai prie jūros</title>
@@ -10153,6 +10672,128 @@
     <title lang="lt">Žinios</title>
     <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
   </programme>
+  <programme start="20261112233000 +0000" stop="20261113002000 +0000" channel="INFO TV">
+    <title lang="lt">Labas vakaras, Lietuva</title>
+    <desc lang="lt">Informacinė pokalbių laida, kurioje žiūrovams pateikiamos ne tik svarbiausios dienos naujienos, bet ir daug gyvų pokalbių, konkursų bei praktiškų patarimų. Žiūrovų pamėgtos laidos rubrikos – "Mokėkime gyventi", "Arčiau namų", "Advokatas žino", "Jaunųjų talentų paieškos", "Elena su žvaigžde".</desc>
+  </programme>
+  <programme start="20261113002000 +0000" stop="20261113004500 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113004500 +0000" stop="20261113013000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113020000 +0000" stop="20261113024500 +0000" channel="INFO TV">
+    <title lang="lt">Labas vakaras, Lietuva</title>
+    <desc lang="lt">Informacinė pokalbių laida, kurioje žiūrovams pateikiamos ne tik svarbiausios dienos naujienos, bet ir daug gyvų pokalbių, konkursų bei praktiškų patarimų. Žiūrovų pamėgtos laidos rubrikos – "Mokėkime gyventi", "Arčiau namų", "Advokatas žino", "Jaunųjų talentų paieškos", "Elena su žvaigžde".</desc>
+  </programme>
+  <programme start="20261113024500 +0000" stop="20261113031000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113031000 +0000" stop="20261113033500 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113033500 +0000" stop="20261113040000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113044500 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113044500 +0000" stop="20261113053500 +0000" channel="INFO TV">
+    <title lang="lt">Labas vakaras, Lietuva</title>
+    <desc lang="lt">Informacinė pokalbių laida, kurioje žiūrovams pateikiamos ne tik svarbiausios dienos naujienos, bet ir daug gyvų pokalbių, konkursų bei praktiškų patarimų. Žiūrovų pamėgtos laidos rubrikos – "Mokėkime gyventi", "Arčiau namų", "Advokatas žino", "Jaunųjų talentų paieškos", "Elena su žvaigžde".</desc>
+  </programme>
+  <programme start="20261113053500 +0000" stop="20261113060000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="INFO TV">
+    <title lang="lt">Nuo... Iki...</title>
+    <desc lang="lt">Pastaruosius kelis mėnesius Simona kartą per savaitę 36 valandas visiškai nevalgo ir geria tik vandenį. Ji dalijasi receptais ir taisyklėmis, padedančiomis išlaikyti kūno formas ir gerą savijautą, tokiomis kaip kokosų aliejus, žalieji kokteiliai ir papajos sėklos. Atsisakiusi alkoholio, rūkalų ir sumažinusi cukraus suvartojimą, Simona pastebėjo, kad jos oda tapo sveikesnė ir skaistesnė. Renata Voitechovskaja-Norvilė pasakos apie savo kovą su Laimo liga, kurios dėka numetė svorio, ir kaip gydytojas išgelbėjo jos gyvenimą. Dabar Renata jaučiasi puikiai ir užsiima epoksidinės dervos kūriniais. Ji dalijasi savo patirtimi apie sveikatos problemas, su kuriomis susidūrė, kol liga buvo nustatyta. Modelis Julija Steponavičiūtė-Vosylė prisimins laikus, kai ribojo save dėl modelio karjeros, skaičiuodama kalorijas. Jos karjera prasidėjo, kai buvo pastebėta Prancūzijos modelių agentės. Abi moterys, kartu su Simona Starkute, dalijasi savo patarimais, kaip išlaikyti gerą savijautą ir kūno formas.</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="INFO TV">
+    <title lang="lt">Juodieji karo ereliai</title>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="INFO TV">
+    <title lang="lt">Policija 24/7</title>
+    <desc lang="lt">Tikros ir nepagražintos istorijos tiesiai iš pareigūnų eikpažų. Jungtinių Amerikos Valstijų kriminalinio pasaulio kasdienybė, užfiksuota dokumentiniame seriale.</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="INFO TV">
+    <title lang="lt">Europa iš paukščio skrydžio</title>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113113000 +0000" channel="INFO TV">
+    <title lang="lt">Už ar prieš?</title>
+    <desc lang="lt">Provokuojanti diskusijų laida, kurioje susidurs dvi priešingos nuomonės ir du vedėjai - legendinė Rūta Mikelkevičiūtė ir populiarusis Paul de Miko. Šis duetas pasirūpins, kad nei viena pusė neliktų nepaklausta, nei vienas argumentas - neišgirstas. Kiekvieną savaitę laidoje susitiks dvi pusės - "už" ir "prieš", kad be cenzūros ir be pagražinimų gintų savo pozicijas. Kuriai pusei pritarsite jūs?</desc>
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113123000 +0000" channel="INFO TV">
+    <title lang="lt">Šeškinės 20</title>
+    <desc lang="lt">Intelektualaus humoro laida, kurioje jėgas suvienijo niekada geros nuotaikos nestokojantys savo srities profesionalai - Giedrius Savickas ir Džiugas Siaurusaitis. Rafinuotas, sumanus bei nuotaikingas Lietuvos teatro ir kino aktorių duetas leis pasimėgauti subtiliu humoru ir kartu su laidos svečiais pasinerti į aktualiausius šių dienų įvykius. Išskirtinis TV šou simboliškai pavadintas "Šeškinės 20", nes būtent toks yra Vilniuje įsikūrusios LNK televizijos adresas ir šou namai.</desc>
+  </programme>
+  <programme start="20261113123000 +0000" stop="20261113133000 +0000" channel="INFO TV">
+    <title lang="lt">Už ar prieš?</title>
+    <desc lang="lt">Provokuojanti diskusijų laida, kurioje susidurs dvi priešingos nuomonės ir du vedėjai - legendinė Rūta Mikelkevičiūtė ir populiarusis Paul de Miko. Šis duetas pasirūpins, kad nei viena pusė neliktų nepaklausta, nei vienas argumentas - neišgirstas. Kiekvieną savaitę laidoje susitiks dvi pusės - "už" ir "prieš", kad be cenzūros ir be pagražinimų gintų savo pozicijas. Kuriai pusei pritarsite jūs?</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="INFO TV">
+    <title lang="lt">KK2</title>
+    <desc lang="lt">Šiemet KK2 papūgų laukia labai intensyvus skrydžių grafikas. Sezono starte - naujos laidos vedėjos atranka - žiūrovai pamatys visus užkulisius, susipažins su garsiomis ir dar nežinomomis kandidatėmis. Vėliau KK2 ners į Seimo rinkimų intrigas. Žiūrovams bus pristatyti turtingiausi, skandalingiausi politiniai kandidatai. KK2 laida kasdien rūpinsis ir aktualiausiomis šalies temomis, lankys įdomiausius Lietuvos personažus bei lietuvius, gyvenančius toli nuo tėvynės krantų.</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="INFO TV">
+    <title lang="lt">Betanės Hjuz patirtys Indijoje</title>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="INFO TV">
+    <title lang="lt">Juodieji karo ereliai</title>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="INFO TV">
+    <title lang="lt">Policija 24/7</title>
+    <desc lang="lt">Tikros ir nepagražintos istorijos tiesiai iš pareigūnų eikpažų. Jungtinių Amerikos Valstijų kriminalinio pasaulio kasdienybė, užfiksuota dokumentiniame seriale.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="INFO TV">
+    <title lang="lt">Europa iš paukščio skrydžio</title>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="INFO TV">
+    <title lang="lt">KK2</title>
+    <desc lang="lt">Šiemet KK2 papūgų laukia labai intensyvus skrydžių grafikas. Sezono starte - naujos laidos vedėjos atranka - žiūrovai pamatys visus užkulisius, susipažins su garsiomis ir dar nežinomomis kandidatėmis. Vėliau KK2 ners į Seimo rinkimų intrigas. Žiūrovams bus pristatyti turtingiausi, skandalingiausi politiniai kandidatai. KK2 laida kasdien rūpinsis ir aktualiausiomis šalies temomis, lankys įdomiausius Lietuvos personažus bei lietuvius, gyvenančius toli nuo tėvynės krantų.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="INFO TV">
+    <title lang="lt">Betanės Hjuz patirtys Indijoje</title>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="INFO TV">
+    <title lang="lt">Labas vakaras, Lietuva</title>
+    <desc lang="lt">Informacinė pokalbių laida, kurioje žiūrovams pateikiamos ne tik svarbiausios dienos naujienos, bet ir daug gyvų pokalbių, konkursų bei praktiškų patarimų. Žiūrovų pamėgtos laidos rubrikos – "Mokėkime gyventi", "Arčiau namų", "Advokatas žino", "Jaunųjų talentų paieškos", "Elena su žvaigžde".</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113214500 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113214500 +0000" stop="20261113222000 +0000" channel="INFO TV">
+    <title lang="lt">Dabar pasaulyje</title>
+    <desc lang="lt">"Dabar pasaulyje" rusų kalba yra jungtinis Laisvosios Europos radijo bei Amerikos balso projektas, vykdomas kartu su viešaisiais bei privačiaisiais transliuotojais bei interneto portalais Baltijos šalyse, Gruzijoje, Moldovoje ir Ukrainoje. Kasdien pristatomas 30 minučių naujienų, interviu bei politinės satyros junginys siekia suteikti realių žinių apie vietinius įvykius.</desc>
+  </programme>
+  <programme start="20261113222000 +0000" stop="20261113224500 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
+  <programme start="20261113224500 +0000" stop="20261113233000 +0000" channel="INFO TV">
+    <title lang="lt">Žinios</title>
+    <desc lang="lt">Išsamios, patikimos ir profesionalios žinios: Lietuvos įvykiai ir užsienio naujienos, karščiausi reportažai ir tiesioginiai reporterių jungimaisi iš įvykio vietų.</desc>
+  </programme>
   <programme start="20261101021000 +0000" stop="20261101041000 +0000" channel="Sport1">
     <title lang="lt">Prancūzijos LNB krepšinio lyga. „Saint-Quentin BB“ - Dižono JDA</title>
     <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
@@ -10650,10 +11291,54 @@
     <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
   </programme>
   <programme start="20261112195000 +0000" stop="20261112212000 +0000" channel="Sport1">
-    <title lang="lt">Europos vyrų rankinio čempionato atrankos rungtynės. Lietuva - Nyderlandai</title>
+    <title lang="lt">Tenisas. ATP Challenger 125. Porto</title>
     <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
   </programme>
   <programme start="20261112212000 +0000" stop="20261113013000 +0000" channel="Sport1">
+    <title lang="lt">ONE Championship</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113013000 +0000" stop="20261113033000 +0000" channel="Sport1">
+    <title lang="lt">Portugalijos "Primeira" futbolo lyga. „Casa Pia AC“ - Lisabonos „Sporting“</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113033000 +0000" stop="20261113050000 +0000" channel="Sport1">
+    <title lang="lt">Pasaulio moterų rankinio čempionato atrankos rungtynės. Lietuva - Belgija</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113084000 +0000" channel="Sport1">
+    <title lang="lt">NASCAR „Cup Series“. Xfinity 500</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113084000 +0000" stop="20261113100000 +0000" channel="Sport1">
+    <title lang="lt">EHF rankinio Čempionų lyga. Orlen Wisla Plock vs HBC Nantes</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113120000 +0000" channel="Sport1">
+    <title lang="lt">Portugalijos "Primeira" futbolo lyga. Amadoros „Estrela“ - Lisabonos „Benfica“</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="Sport1">
+    <title lang="lt">Vokietijos krepšinio lyga. Viurcburgo „Baskets“ - Miuncheno „Bayern“</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113160000 +0000" channel="Sport1">
+    <title lang="lt">Graikijos krepšinio lyga. Atėnų AEK - Atėnų „Panatinaikos“</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113180000 +0000" channel="Sport1">
+    <title lang="lt">Optibet ledo ritulio lyga</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113200000 +0000" channel="Sport1">
+    <title lang="lt">Tenisas. ATP Challenger 125. Orleanas</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113221000 +0000" channel="Sport1">
+    <title lang="lt">Tenisas. ATP Challenger 125. Orleanas</title>
+    <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
+  </programme>
+  <programme start="20261113221000 +0000" stop="20261114005000 +0000" channel="Sport1">
     <title lang="lt">ONE Championship</title>
     <desc lang="lt">Tiesioginiai sporto kanalai internetu. Žiūrėk bet kokiame įrenginyje per Go3.</desc>
   </programme>
@@ -10943,6 +11628,33 @@
     <title lang="lt">Pa2kim</title>
   </programme>
   <programme start="20261112210000 +0000" stop="20261113020000 +0000" channel="2TV">
+    <title lang="lt">2zgės</title>
+  </programme>
+  <programme start="20261113020000 +0000" stop="20261113040000 +0000" channel="2TV">
+    <title lang="lt">Sal2</title>
+    <desc lang="lt">Lėtoji televizija - meninė audiovizualinė instaliacija.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113070000 +0000" channel="2TV">
+    <title lang="lt">Amžini hitai</title>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="2TV">
+    <title lang="lt">Pabun2</title>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113140000 +0000" channel="2TV">
+    <title lang="lt">Nenuobo2</title>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="2TV">
+    <title lang="lt">Šok TikTok</title>
+    <desc lang="lt">Šoksime TikTok geriausius šokius su Marija Silickaja-Šmatavičienė ir Dalia Belickaitė.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113200000 +0000" channel="2TV">
+    <title lang="lt">Pa2kim</title>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113220000 +0000" channel="2TV">
+    <title lang="lt">2LT</title>
+    <desc lang="lt">2 valandos su lietuviška muzika.</desc>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261114000000 +0000" channel="2TV">
     <title lang="lt">2zgės</title>
   </programme>
   <programme start="20261101005500 +0000" stop="20261101060000 +0000" channel="Balticum">
@@ -11841,6 +12553,92 @@
     <title lang="lt">Baudžiauninkė</title>
     <desc lang="lt">Aštuoniolikmetės Katerina – graži ir protinga našlaitė. Krikštamotės valia ji buvo auklėjama kaip kilmingo kraujo mergina. Tačiau realybėje ji tik turtingo dvarininko vergė. Mergina gyvena tarp - baudžiauninkų ir bajorų. Tik jai nėra vietos nė viename iš šių pasaulių. Kovoje už savo laisvę ir teisę į laimę jai teks išgyventi ne vieną lemtingą smūgį ir fatališkas permainas. Kas laukia Katerinos tokio siaubingo ir varginančio kelio į laisvę pabaigoje? Istorinis romantinis serialas – "Baudžiauninkė".</desc>
   </programme>
+  <programme start="20261112233000 +0000" stop="20261113060000 +0000" channel="Balticum">
+    <title lang="lt">Pertrauka</title>
+    <desc lang="lt">Filmai tiesiogiai per TV. Žiūrėk TV kanalus tiesiogiai internetu per Go3 bet kokiame įrenginyje.</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="Balticum">
+    <title lang="lt">Kapitonas Šerifas</title>
+    <desc lang="lt">Netradicinis policijos kapitonas, kurio metodai kelia abejonių, mokosi dirbti su savo naująja partnere, kriminalinių nusikaltimų tyrėja. Pirmasis vadovaujasi instinktais, o antroji dirba griežtai pagal kodekso nuostatus. Tačiau jiems tenka pamiršti savo nesutarimus, tiriant rezonansines bylas. Kriminalinis prancūzų serialas - "Kapitonas Šerifas".</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113071500 +0000" channel="Balticum">
+    <title lang="lt">Tiek žinių</title>
+    <desc lang="lt">Besikeičiantys vedėjai, įskaitant Dominyką, Irmą ir Timūrą, kurie veda šią savaitės naujienų ir aktualijų laidą. Didžiausią dėmesį skirdami regioniniams reikalams, esame nuolat informuojami apie visus svarbiausius šalies įvykius Lietuvoje ir visoje planetoje.</desc>
+  </programme>
+  <programme start="20261113071500 +0000" stop="20261113081500 +0000" channel="Balticum">
+    <title lang="lt">Baudžiauninkė</title>
+    <desc lang="lt">Aštuoniolikmetės Katerina – graži ir protinga našlaitė. Krikštamotės valia ji buvo auklėjama kaip kilmingo kraujo mergina. Tačiau realybėje ji tik turtingo dvarininko vergė. Mergina gyvena tarp - baudžiauninkų ir bajorų. Tik jai nėra vietos nė viename iš šių pasaulių. Kovoje už savo laisvę ir teisę į laimę jai teks išgyventi ne vieną lemtingą smūgį ir fatališkas permainas. Kas laukia Katerinos tokio siaubingo ir varginančio kelio į laisvę pabaigoje? Istorinis romantinis serialas – "Baudžiauninkė".</desc>
+  </programme>
+  <programme start="20261113081500 +0000" stop="20261113091500 +0000" channel="Balticum">
+    <title lang="lt">Tyrėjų porelė</title>
+    <desc lang="lt">Istorija apie jauną detektyvę, kuri atvyksta į tikrą policijos pragarą. Čia jai tenka įrodyti, jog naujoji karta gali pakeisti sistemą iš vidaus ir priminti, kad policija turi gerbti piliečius ir suteikti saugumą. Nuovadoje ji susipažįsta su uždaru bei arogantišku senbuviu. Iš pradžių tarp jų vyrauja nesantaika, tačiau dirbdami kartu sudėtingose bylose jie palaipsniui pradeda geriau suprasti vienas kitą. Detektyvinis serialas - "Tyrėjų porelė".</desc>
+  </programme>
+  <programme start="20261113091500 +0000" stop="20261113094500 +0000" channel="Balticum">
+    <title lang="lt">Lietuva. Asmeniškai</title>
+  </programme>
+  <programme start="20261113094500 +0000" stop="20261113104500 +0000" channel="Balticum">
+    <title lang="lt">Kapitonas Šerifas</title>
+    <desc lang="lt">Netradicinis policijos kapitonas, kurio metodai kelia abejonių, mokosi dirbti su savo naująja partnere, kriminalinių nusikaltimų tyrėja. Pirmasis vadovaujasi instinktais, o antroji dirba griežtai pagal kodekso nuostatus. Tačiau jiems tenka pamiršti savo nesutarimus, tiriant rezonansines bylas. Kriminalinis prancūzų serialas - "Kapitonas Šerifas".</desc>
+  </programme>
+  <programme start="20261113104500 +0000" stop="20261113110000 +0000" channel="Balticum">
+    <title lang="lt">Tiek žinių</title>
+    <desc lang="lt">Besikeičiantys vedėjai, įskaitant Dominyką, Irmą ir Timūrą, kurie veda šią savaitės naujienų ir aktualijų laidą. Didžiausią dėmesį skirdami regioniniams reikalams, esame nuolat informuojami apie visus svarbiausius šalies įvykius Lietuvoje ir visoje planetoje.</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="Balticum">
+    <title lang="lt">Raktas į tiesą</title>
+    <desc lang="lt">Valerija – patyrusi tyrėja, priversta palikti tarnybą po to, kai jos brolis buvo neteisingai apkaltintas nusikaltimu ir žuvo. Nusivylusi sistema, ji pradeda savo pačios tyrimą, kuris ją atveda į prestižinį viešbutį, kur už blizgančios fasado slepiasi tamsūs sąmokslai, melas ir nusikaltimai. Narpliodama apgaulės voratinklį, Valerija rizikuoja viskuo, nes tiesos paieškos pasirodo pavojingos ir gali pakeisti moters gyvenimą visam laikui. Ukrainiečių detektyvinis serialas - "Raktas į tiesą".</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="Balticum">
+    <title lang="lt">Raktas į tiesą</title>
+    <desc lang="lt">Valerija – patyrusi tyrėja, priversta palikti tarnybą po to, kai jos brolis buvo neteisingai apkaltintas nusikaltimu ir žuvo. Nusivylusi sistema, ji pradeda savo pačios tyrimą, kuris ją atveda į prestižinį viešbutį, kur už blizgančios fasado slepiasi tamsūs sąmokslai, melas ir nusikaltimai. Narpliodama apgaulės voratinklį, Valerija rizikuoja viskuo, nes tiesos paieškos pasirodo pavojingos ir gali pakeisti moters gyvenimą visam laikui. Ukrainiečių detektyvinis serialas - "Raktas į tiesą".</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113144000 +0000" channel="Balticum">
+    <title lang="lt">Gabalėlis romantikos</title>
+    <desc lang="lt">Makeila - sėkminga viešųjų ryšių specialistė. Tačiau asmeniniame gyvenime jai sekasi kur kas prasčiau. Kaskart, po nepavykusio pasimatymo, moteris ieško nusiraminimo skanaudama desertus. Taip ji susipažįsta su vietinės kavinukės savininku. Ostinas ne tik vadovauja kavinės darbui, jis yra ir aistringas desertų kūrėjas. Mikeila sutinka degustuoti jo kuriamus desertus, o už tai - patarti jam, kaip geriau reklamuoti savo verslą. Ostinas nerimauja, kad patalpų nuoma pabrangs ir kavinukei grės bankrotas. Nieko nelaukusi Mikeila pasiūlo puikų planą. Ji yra šimtu procentu tikra, kad renovavus patalpas, suteikus joms daugiau jaukumo ir pakeitus pavadinimą - sėkmė būtų garantuota. Bendras darbas transformuojant kavinę suartina jaunuolius. Tačiau atidarymo dieną jie nesulaukia lankytojų antplūdžio. Ar pirmos naujosios kavinės darbo valandos bus lemtingos? O gal planas atsinaujinti buvo klaida?</desc>
+  </programme>
+  <programme start="20261113144000 +0000" stop="20261113151500 +0000" channel="Balticum">
+    <title lang="lt">Sparno broliai</title>
+    <desc lang="lt">Laidų ciklas, kuriame pasakojamos įkvepiančios istorijos apie žmones, gyvenančius skrydžiu, dangumi ir aviacija. Laidose atskleidžiamos asmeninės patirtys, profesiniai iššūkiai, draugystė ir bendrystė, jungianti "Sparno brolius".</desc>
+  </programme>
+  <programme start="20261113151500 +0000" stop="20261113163000 +0000" channel="Balticum">
+    <title lang="lt">Tiek politikos</title>
+    <desc lang="lt">Kas antrą savaitę politologė Rima Urbonaitė laidoje "Tiek Politikos" apžvelgs svarbiausias politikos aktualijas, analizuos politinius procesus, politikų pasisakymus bei sprendimus. Čia išrinktus valdžios atstovai sulauks tik aštrių klausimų. Aktualijų laida su "Tiek politikos su Rima Urbonaite".</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="Balticum">
+    <title lang="lt">Didieji Vuikai 2. Namie geriau</title>
+    <desc lang="lt">Po to delegacija sostinėje pasiekė, kad Vuikų kaimelyje būtų nutiestas kelias, privatus investuotojas ten pastato viešbutį, ir dabar kaimas netrukus gali tapti tikru europietišku kurortu. Pamėgti personažai ir naujos aplinkybės. Ukrainiečių humoro serialas - "Didieji Vuikai".</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Balticum">
+    <title lang="lt">Didieji Vuikai 2. Namie geriau</title>
+    <desc lang="lt">Po to delegacija sostinėje pasiekė, kad Vuikų kaimelyje būtų nutiestas kelias, privatus investuotojas ten pastato viešbutį, ir dabar kaimas netrukus gali tapti tikru europietišku kurortu. Pamėgti personažai ir naujos aplinkybės. Ukrainiečių humoro serialas - "Didieji Vuikai".</desc>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Balticum">
+    <title lang="lt">Karas ir taika</title>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113181500 +0000" channel="Balticum">
+    <title lang="lt">Tiek žinių</title>
+    <desc lang="lt">Besikeičiantys vedėjai, įskaitant Dominyką, Irmą ir Timūrą, kurie veda šią savaitės naujienų ir aktualijų laidą. Didžiausią dėmesį skirdami regioniniams reikalams, esame nuolat informuojami apie visus svarbiausius šalies įvykius Lietuvoje ir visoje planetoje.</desc>
+  </programme>
+  <programme start="20261113181500 +0000" stop="20261113191500 +0000" channel="Balticum">
+    <title lang="lt">Šeimininkas</title>
+    <desc lang="lt">Sonia grįžta namo po studijų Harvarde. Turtingo žemės ūkio savininko duktė bando suprasti įtakingo tėvo darbo metodus ir atranda daug nemalonių dalykų. Gerai išauklėta Sonia iš pradžių nesiryžta eiti prieš tėvo interesus, tačiau dukters nesutarimai su tėvu paaštrėja, kai ši nesutinka tekėti už jai parinkto sužadėtinio. Galiausiai ji įsitraukia į atvirą konfliktą ir kovos už teisingumą ir moralines vertybes. Amžinas konfliktas tarp tėvų ir vaikų komiškame draminiame seriale - "Šeimininkas".</desc>
+  </programme>
+  <programme start="20261113191500 +0000" stop="20261113205500 +0000" channel="Balticum">
+    <title lang="lt">Kalėdos Glenbruke</title>
+    <desc lang="lt">Džesika Morgan nuo Naujųjų metų bus paskirta "Morgan" organizacijos Los Andžele generaline direktore. Tas pareigas užleis jos senelis Haroldas, kuris išeis į užtarnautą pensiją. Suprasdama, kad užimant tokias pareigas atokvėpio nebus nei sekundei, Džesika nusprendžia praleisti laiką iki Kalėdų senuose tėvų namuose. Mažame Glenbruko miestelyje Kolorado valstijoje jos tėvai sutiko vienas kitą, įsimylėjo ir prisiekė amžinai meilei. Didžiausias Džesikos troškimas - Kalėdų išvakarėse išgirsti skambančius bažnyčios varpus. Jų skambesys, anot legendų, gali išpildyti visus troškimus. Atvykusi į miestelį, Džesika prisistato kitu vardu. Be tik dėl to, jog nenori, kad su ja žmonės bendrautų jau susidarę išankstinę nuomonę. Juk žiniasklaidos sukurtas portretas ne būtinai yra tikras. Netrukus Džesika pamilsta miestą ir jo ritmą. Moters širdyje randa kertelę ir vietos ugniagesių vadas Kailis. Iš jo Džesika ir sužino siaubingą dalyką: bažnyčios varpai nesuskambės, nes jų remontui miestas neturi lėšų. Kaip Džeseikai pavyks išspręsti miesto problemą ir kaip sureaguos Kailas, sužinojęs, kad paprastoji moteris yra milžiniškų turtų paveldėtoja….</desc>
+  </programme>
+  <programme start="20261113205500 +0000" stop="20261113211000 +0000" channel="Balticum">
+    <title lang="lt">Tiek žinių</title>
+    <desc lang="lt">Besikeičiantys vedėjai, įskaitant Dominyką, Irmą ir Timūrą, kurie veda šią savaitės naujienų ir aktualijų laidą. Didžiausią dėmesį skirdami regioniniams reikalams, esame nuolat informuojami apie visus svarbiausius šalies įvykius Lietuvoje ir visoje planetoje.</desc>
+  </programme>
+  <programme start="20261113211000 +0000" stop="20261113225000 +0000" channel="Balticum">
+    <title lang="lt">Tikslas - vestuvės!</title>
+    <desc lang="lt">Jiems abiem virš 40, jie niekada nebuvo sukūrę šeimos ir abu cinikai iki panagių. Lindsė ir Frenkas susitikę oro uoste ir jau po penkių minučių sugebėję vienas kitą suerzinti. Netrukus paaiškėja, kad jie abu keliauja į tas pačias bendrų draugų vestuves. Nekęsdami vienas kito atsitiktiniai pakeleiviai priversti palaikyti bent minimalų pokalbį ir ištverti varginančią jaunųjų šventę. Niekada neįsileisk dviejų cinikų į vestuves. Winona Ryder ir Keanu Reeves'as romantinėje komedijoje – "Tikslas – vestuvės!".</desc>
+  </programme>
+  <programme start="20261113225000 +0000" stop="20261113234500 +0000" channel="Balticum">
+    <title lang="lt">Laikykitės ten</title>
+    <desc lang="lt">Televizijos eterį užkariauja intelektualumu ir sarkastiškais pasisakymais garsėjantis Andrius Tapinas. Visiems gerai žinomas žurnalistas, laidų vedėjas ir rašytojas žiūrovus džiugins daug dėmesio susilaukusiu flagmanu. Kiekvienas kviečiamas įsitraukti į intelektualios satyros vakarus, kurių metu įvairiausiais kampais bus apžvelgi kasdieniai įvykiai, rimtos problemos ir visiems rūpimos aktualijos. Žinomi svečiai, įdomiausios diskusijos ir įžvalgos su gyva auditorija filmuojamoje laidoje "Laikykitės ten su Andriumi Tapinu"!</desc>
+  </programme>
   <programme start="20261101020000 +0000" stop="20261101050000 +0000" channel="Balticum auksinis">
     <title lang="lt">Pertrauka</title>
     <desc lang="lt">Filmai tiesiogiai per TV. Žiūrėk TV kanalus tiesiogiai internetu per Go3 bet kokiame įrenginyje.</desc>
@@ -12319,6 +13117,50 @@
   <programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="Balticum auksinis">
     <title lang="lt">Chaoso planeta</title>
     <desc lang="lt">2257 mūsų eros metais žmonės gyvena Naujojo pasaulio planetos kolonijose. Jie visi kenčia nuo būsenos vadinamos triukšmu. Jo paveiktų žmonių mintys tampa matomos ir girdimos visiems kitiems. Kolonijose gyvena tik vyrai, nes moterys kadaise išmirė paveiktos nežinomų jėgų. Todas gyvena drauge su įtėviais ir per visą savo gyvenimą nėra matęs nei vienos moters. Viskas pasikeičia, kai aptikęs sudužusį kosminį laivą jis sutinka merginą. Dabar jis privalo pasistengti suvaldyti mintis, kad niekas kitas mieste nesužinotų apie atvykėlę. Juk vos supratę, kad moteris išsilaipino jų valdose, jie neabejotinai ją nužudys. Žingsnis po žingsnio pradeda aiškėti nemalonūs faktai. Pasirodo, ryšio antena, galinti perduoti kitoms kolonijoms informacinius pranešimus, yra sugadinta tyčia. Kodėl miesto meras neleidžia kontaktuoti gyventojams su pasauliu?</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113020000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Robotai</title>
+    <desc lang="lt">Netolimoje ateityje, kai tobuli androidai tarnauja žmonėms, turtinga pora Čarlzas ir Elena slapta naudoja savo nelegalias kopijas, kad šios už juos dirbtų. Tačiau planas komplikuojasi, kai judviejų dubleriai robotai netikėtai įsimyli ir nusprendžia pradėti bendrą gyvenimą. Jie palieka savo šeimininkus likimo valiai. Tuo tarpu tikrieji Čarlzas ir Elena suvokę, kad robotai pavogė jų tapatybes, priversti suvienyti jėgas. Prasideda beprotiškos gaudynės, kurių metu herojai turi pergudrauti savo pačių "patobulintas" versijas.</desc>
+  </programme>
+  <programme start="20261113020000 +0000" stop="20261113050000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Pertrauka</title>
+    <desc lang="lt">Filmai tiesiogiai per TV. Žiūrėk TV kanalus tiesiogiai internetu per Go3 bet kokiame įrenginyje.</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113070000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Galingieji reindžeriai</title>
+    <desc lang="lt">Penki nepažįstantys vienas kito paaugliai, vienu metu atsiduria paslaptingame apleistos šachtos tunelyje, kur vyksta protu nesuvokiami dalykai. Netrukus jie pastebi įgiję supergalių. Taip gimsta legendinis penketukas - "Galingieji reindžeriai". Tačiau ši transformacija - tik nuotykių pradžia, nes kartu pabunda ir milijonus metų snaudusios blogio jėgos, kurių galutinis tikslas - žmonijos sunaikinimas. Vienintelis šansas išgelbėti mūsų civilizaciją – šiems naujiesiems superherojams susivienyti ir kartu stoti į lemiamą kovą. Naujosios kartos specialiųjų efektų, įtampos, veiksmo bei taiklaus humoro kupina juosta - "Galingieji reindžeriai".</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Sapnų kūrėjai</title>
+    <desc lang="lt">Dvylikametė Mina gyvena paprastą dvylikametės mergaitės gyvenimą: eina į mokyklą, ruošia pamokas, žaidžia su draugais ir kartais neklauso tėvelių. Tačiau vieną dieną jos ramus, paprastas ir mielas gyvenimas netikėtai pasikeičia, kai į jos namus atsikelia gyventi Dženė - Minės lyg ir sesuo, bet nevisai. Iš pradžių apsidžiaugusi, kad turės seserį, Mina netrukus pamato, kad Dženė nėra tokia, kokią ji įsivaizdavo, kokios norėjo ir apie kokią svajojo. Tačiau nutinka kai kas stebuklingo: Mina patenka į slaptą vietą, kurioje gaminami... sapnai! O išgirdus, kad įmanoma ne tik sukurti konkretų sapną bet kuriam žmogui, bet ir sapnuose priversti žmogų keistis, Minai galvon šauna neprilygstama mintis: pasitelkusi sapnų kūrimo galią ji pakeis Dženę!</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113110500 +0000" channel="Balticum auksinis">
+    <title lang="lt">Geroji pusė</title>
+    <desc lang="lt">Milijonierius Filipas turi viską, ką tik galima nupirkti už pinigus. Išskyrus sveikatą. Jis beveik visas paralyžiuotas bei visiškai priklausomas nuo kitų. Nusivylusiam, ir piktam milijonieriui neįtinka nė vienas pagalbininkas. Kol vieną dieną į namus užsuka Delas Skotas. Jo atsainus požiūris ir palaidas liežuvis padaro įspūdį paralyžiuotam milijonieriui ir jam pasiūlomas darbas. Sulig kiekviena diena jie tampa geresniais draugais. Milijonierius vėl prisimena, ką reiškia gyventi, o pagalbininkas pagaliau subręsta. Bryan'as Cranston'as ir Kevin'as Hart'as gyvenimiškoje komiškoje dramoje - "Geroji pusė".</desc>
+  </programme>
+  <programme start="20261113110500 +0000" stop="20261113130000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Pabučiuok virėją</title>
+    <desc lang="lt">Maisto tinklaraščio kūrėja Keisi pagaliau gali įgyvendinti savo svajonę. Ji trokšta išleisti kulinarinę, savo receptų knygą. Viskas būtų šaunu, bet yra viena maža problema, - jos paruošti patiekalai nėra skanūs. Į pagalba jai atskuba virtuvės šefas Geivinas. Jis kantriai moko Keisę visų maisto gaminimo paslapčių. Drauge keliauja ieškoti unikalių produktų ir patiria nuostabias akimirkas drauge. Keisė sužino, kad Geivino restoranas užsidarė po nepalankių maisto kritikų straipsnių. Ji išsiaiškina, kad jos buvęs vaikinas ir yra tas storžievis, nepelnytai sutrypęs Geivino restorano reputaciją. Keisė visa širdimi trokšta sėkmės Geivinui ir padarys viską, kad jo restoranas vėl atgimtų.</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113151500 +0000" channel="Balticum auksinis">
+    <title lang="lt">Mančesteris prie jūros</title>
+    <desc lang="lt">Po keliolikos metų Ly priverstas sugrįžti į gimtuosius namus. Jis priverstas stoti akistaton su savo skaudžia praeitimi. Laimę su kitu vyru kurianti buvusi žmona, sudėtingi santykiai su sūnėnu ir kiekviename gimtojo miestelio žingsnyje sugrįžtantys prisiminimai nepalieka Ly kito pasirinkimo. Jis priverstas iš naujo išgyventi praeityje paliktą skausmą. Keisis Aflekas ir Mišelė Wiliams du Oskarus laimėjusioje dramoje - "Mančesteris prie jūros".</desc>
+  </programme>
+  <programme start="20261113151500 +0000" stop="20261113170000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Nevilties valanda</title>
+    <desc lang="lt">Eimė stengiasi susidoroti su užgriuvusia našta, kuri slegia po vyro mirties. Vienai auginti du vaikus nėra lengva, tad kartas nuo karto moteris bando atgauti jėgas medituodama, sportuodama gamtoje. Rugsėjo dvidešimt ketvirtą dieną ji nutaria praleisti namuose. Palydi dukrelę Emilę į mokyklinį autobusą, o sūnų Nojų randa vis dar gulintį lovoje ir besiskundžiantį prasta savijauta. Moteris nutaria prabėgioti miško takeliais, o pakeliui į mišką ji prasilenkia net su keliais policijos ekipažais. Visai netrukus gauna įspėjamąjį pranešimą, kad visos miestelio vidurinės mokyklos uždarytos, nes vienoje iš jų siautėja šaulys. Motinos nuojauta pradeda siaubingai šėlti ir dabar Emilė privalo kuo skubiau susisiekti su Nojumi. Sūnaus automobilio kieme nėra, o susisiekti su juo taip pat nepavyksta. Įtampa, chaosas ir motinos drąsa įveikti mylias miško tankmėje, siekiant bet kokia kaina padėti nuo šaulio besislapstančiam Nojui.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113190000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Paslaptingas sodas</title>
+    <desc lang="lt">Po netikėtos tėvų mirties Indijoje, paauglės Merės (aktorė Dixie Egerickx) gyvenimas apsiverčia aukštyn kojom. Mergaitė išsiunčiama gyventi į niūriąją Angliją, pas dar niūresnį ir tikrai bjauraus charakterio dėdę Arčibaldą (Colin'as Firth'as). Be grėsmingojo ir visuomet rimto Arčibaldo, Merės gyvenimą atokioje vietoje stovinčiame didžiuliame dvare nuolat apsunkina ir misis Medlok (Julie Walters) - pagiežinga namų tarnaitė. Neturėdama pernelyg daug veiklos, Merė dienas leidžia tyrinėdama savo naująją aplinką. Kol vieną dieną aptinka dureles į slaptą sodą, kurį kažkada su meile puoselėjo ir prižiūrėjo jos mirusi teta - pono Arčibaldo žmona. Vis daugiau laiko leisdama sode, kuriame, rodos, ir saulės žymiai daugiau nei dėdės dvare, mergaitė pamažu atranda ir didžiausią jo paslaptį: kad sodas yra stebuklingas.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113210000 +0000" channel="Balticum auksinis">
+    <title lang="lt">7 dienos Entebėje</title>
+    <desc lang="lt">1976 m. liepą "Air France" lėktuvas skrido iš Tel Avivo į Paryžių per Atėnus ir buvo užgrobtas. Lėktuvas nusileido Entebėje, Ugandoje. Keleiviai žydai buvo atskirti ir laikomi įkaitais. Palestiną palaikantys grobikai pareikalauja paleisti daugybę Izraelio kalėjimuose laikomų teroristų. Po ilgų diskusijų Izraelio vyriausybė išsiuntė elitinį padalinį, kuris surengtų reidą aerodrome ir išlaisvintų įkaitus. Neįtikėtina istorija apie gelbėjimo misiją, kuri pritraukė viso pasaulio dėmesį. Istorinis veiksmo draminis filmas – "7 dienos Entebėje".</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113230000 +0000" channel="Balticum auksinis">
+    <title lang="lt">Tvirtas užnugaris</title>
+    <desc lang="lt">JAV kariuomenės seržantas Džonas Kinlis (akt. Jake Gyllenhaal) Afganistane patruliuodamas pasitelkia vietos gyventoją Ahmedą (akt. Dar Salim). Vyras vertėjauja kariui ir taip užtikrina kokybišką komunikaciją tarp JAV karių ir vietinių gyventojų. Džono būriui patekus į Talibano kovotojų pasalą, visi, išskyrus jį ir vertėją Ahmedą, žūsta. Sunkiai sužeistą seržantą Ahmedas paslepia saugioje vietoje ir slaugo iki tol, kol šis pakankamai sustiprėjęs gali keliauti namo. Tik grįžęs į Ameriką, Džonas sužino kraupią tiesą. Besitraukdami iš Afganistano JAV kariai visus jiems pagelbėjusius vietinius gyventojus palieka likimo valiai. Taip jiems parašo mirties nuosprendį. Juk šalies išdavikai gali sulaukti tik mirties. Negalėdamas susitaikyti su tokia neteisybe, Džonas rizikuoja savo saugumu ir gyvybe. Jis nusprendžia vykti į Afganistaną ir išgelbėti savo vertėją ir jo šeimą.</desc>
   </programme>
   <programme start="20261101003000 +0000" stop="20261101013000 +0000" channel="Delfi TV">
     <title lang="lt">Orijaus kelionių archyvai</title>
@@ -13837,6 +14679,129 @@
     <desc lang="lt">Visų pamėgtas keliautojas iš Žemaitijos, Paulius Samoška, kloja kelią per septynis naujuosius pasaulio stebuklus. Stebėk Pauliaus kelionės nuotykius aplink pasaulį per Delfi televiziją!</desc>
   </programme>
   <programme start="20261112223500 +0000" stop="20261112230500 +0000" channel="Delfi TV">
+    <title lang="lt">Pauliaus Samoškos nuotykiai</title>
+    <desc lang="lt">Visų pamėgtas keliautojas iš Žemaitijos, Paulius Samoška, kloja kelią per septynis naujuosius pasaulio stebuklus. Stebėk Pauliaus kelionės nuotykius aplink pasaulį per Delfi televiziją!</desc>
+  </programme>
+  <programme start="20261112230500 +0000" stop="20261112233500 +0000" channel="Delfi TV">
+    <title lang="lt">Delfi.ru naujienos rusų kalba</title>
+    <desc lang="lt">Patikimos ir patikrintos žinios rusų kalba: tiesioginiai teletiltai iš Ukrainos, sveiko proto diskusijos studijoje ir naujausia informacija.</desc>
+  </programme>
+  <programme start="20261112233500 +0000" stop="20261113040000 +0000" channel="Delfi TV">
+    <title lang="lt">Ukrainos žinios "Ukraina 24"</title>
+    <desc lang="lt">Stipriausi Ukrainos žurnalistai susivienijo tam, kad nenutrūkstamai transliuotų patikrintą informaciją iš karo zonos. Karščiausios naujienos tiesiogiai portale Delfi ir per Delfi TV.</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="Delfi TV">
+    <title lang="lt">Delfi diena. Svarbiausių įvykių apžvalga</title>
+    <desc lang="lt">Kiekvieną darbo dieną, penkias dienas per savaitę "Delfi Diena" - aktualiausi dienos įvykiai iš verslo ir politikos pasaulio, taip pat Dienos reportažai ir saujelė pikantiškų žinių.</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="Delfi TV">
+    <title lang="lt">Kiek už kvadratą?</title>
+    <desc lang="lt">Ką ir už kiek pirkti, kad pelningai parduotum? Kad pateiktų atsakymus laidos vedėjas Vytenis viską išbando pats. Nekilnojamojo turto pirkimas, įrengimas, pardavimas ir dar daug visko laidoje "Kiek už kvadratą?".</desc>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="Delfi TV">
+    <title lang="lt">Gabalėliai Lietuvos. Tikslas - Amerika</title>
+    <desc lang="lt">JAV yra nesuskaičiuojama gausybė lietuviško paveldo ir vietų. Daugiau kaip šimtas lietuvių bažnyčių, kai kurios kurių didybe lenkia Lietuvos katedras, daugybė paminklų lietuviams, žymių lietuvių kapų, lietuviškai pavadintų vietų. Ir daugelis viso to gerokai primiršta, dalis - nyksta. Augustinas ir Aistė Žemaičiai pasiryžę lietuvišką istoriją JAV vėl ištraukti į dienos šviesą.</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113070000 +0000" channel="Delfi TV">
+    <title lang="lt">Pas Editą</title>
+    <desc lang="lt">,,Pas Editą"" - pokalbių laida, kurią veda charizmatiškoji Edita Mildažytė. Ilgametė patirtis televizijoje jai leidžia ypatingai jautriai atskleisti pašnekovus.</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus kelionių archyvai</title>
+    <desc lang="lt">Charizmatiškasis Orijus Gasanovas pramoginėje laidoje "Orijaus kelionės" drauge su žiūrovais leisis į pačias spalvingiausias keliones užsienyje ir Lietuvoje, dalinsis patarimais ir keliautojams naudinga informacija.</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus atostogos Lietuvoje</title>
+    <desc lang="lt">Žinomas keliautojas Orijus Gasanovas visą vasarą keliaus po įvairius Lietuvos miestus ir miestelius, juose ieškodamas įdomiausių lankytinų vietų, pramogų ir herojų, taip didindamas atostogų Lietuvoje patrauklumą.</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113095500 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus kelionių archyvai</title>
+    <desc lang="lt">Charizmatiškasis Orijus Gasanovas pramoginėje laidoje "Orijaus kelionės" drauge su žiūrovais leisis į pačias spalvingiausias keliones užsienyje ir Lietuvoje, dalinsis patarimais ir keliautojams naudinga informacija.</desc>
+  </programme>
+  <programme start="20261113095500 +0000" stop="20261113100000 +0000" channel="Delfi TV">
+    <title lang="lt">Kenoloto</title>
+    <desc lang="lt">"Kenoloto" - viena seniausių loterijų Lietuvoje, žaisti pradėta dar 1996 metais. Šiuo metu laimėjimus atnešantis kamuoliukai ridenami net tris kartus per dieną, o dalyviai patys gali rinktis, kelis iš jų bandys atspėti, savo laimingus skaičius bei bilieto kainą. Pastaroji prasideda nuo 0,25 Eur, o didžiausias galimas loterijos laimėjimas net 200 000 Eur!</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="Delfi TV">
+    <title lang="lt">Delfi diena. Svarbiausių įvykių apžvalga</title>
+    <desc lang="lt">Kiekvieną darbo dieną, penkias dienas per savaitę "Delfi Diena" - aktualiausi dienos įvykiai iš verslo ir politikos pasaulio, taip pat Dienos reportažai ir saujelė pikantiškų žinių.</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="Delfi TV">
+    <title lang="lt">Egzotiniai keliai</title>
+    <desc lang="lt">Patyręs keliautojas Algirdas aktyviai keliauja nuo 2008 m. ir jau yra aplankęs daugiau nei 50 pasaulio šalių. Laidose pamatysite kaip atrodo egzotinės šalys keliautojo akimis, sužinosite ką valgo ir kuo gyvena vietiniai, kartu patirsite neišdildomų kelionių įspūdžių. Nuo Amerikos iki Azijos.</desc>
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Delfi TV">
+    <title lang="lt">Egzotiniai keliai</title>
+    <desc lang="lt">Patyręs keliautojas Algirdas aktyviai keliauja nuo 2008 m. ir jau yra aplankęs daugiau nei 50 pasaulio šalių. Laidose pamatysite kaip atrodo egzotinės šalys keliautojo akimis, sužinosite ką valgo ir kuo gyvena vietiniai, kartu patirsite neišdildomų kelionių įspūdžių. Nuo Amerikos iki Azijos.</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus atostogos Lietuvoje</title>
+    <desc lang="lt">Žinomas keliautojas Orijus Gasanovas visą vasarą keliaus po įvairius Lietuvos miestus ir miestelius, juose ieškodamas įdomiausių lankytinų vietų, pramogų ir herojų, taip didindamas atostogų Lietuvoje patrauklumą.</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="Delfi TV">
+    <title lang="lt">Baidare per Ameriką</title>
+    <desc lang="lt">Po istorinių žygių ir įspūdingų iššūkių keliautojas Aurimas Valujavičius leidžiasi į dar vieną ambicingą ekspediciją - tolimiausią kelionę baidare Lietuvos istorijoje.</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="Delfi TV">
+    <title lang="lt">Dviračiu aplink pasaulį</title>
+    <desc lang="lt">Kai namai yra ten, kur veda akys, o visas turtas tik tai, ką gali pakelti. Daugybę metų kelyje be detalaus plano, bet su kasdieniais atradimais. Tai pozityvus dienoraštis apie merginą, kuri viena mina dviratį aplink pasaulį.</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus kelionių archyvai</title>
+    <desc lang="lt">Charizmatiškasis Orijus Gasanovas pramoginėje laidoje "Orijaus kelionės" drauge su žiūrovais leisis į pačias spalvingiausias keliones užsienyje ir Lietuvoje, dalinsis patarimais ir keliautojams naudinga informacija.</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="Delfi TV">
+    <title lang="lt">Egzotiniai keliai</title>
+    <desc lang="lt">Patyręs keliautojas Algirdas aktyviai keliauja nuo 2008 m. ir jau yra aplankęs daugiau nei 50 pasaulio šalių. Laidose pamatysite kaip atrodo egzotinės šalys keliautojo akimis, sužinosite ką valgo ir kuo gyvena vietiniai, kartu patirsite neišdildomų kelionių įspūdžių. Nuo Amerikos iki Azijos.</desc>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113155500 +0000" channel="Delfi TV">
+    <title lang="lt">Egzotiniai keliai</title>
+    <desc lang="lt">Patyręs keliautojas Algirdas aktyviai keliauja nuo 2008 m. ir jau yra aplankęs daugiau nei 50 pasaulio šalių. Laidose pamatysite kaip atrodo egzotinės šalys keliautojo akimis, sužinosite ką valgo ir kuo gyvena vietiniai, kartu patirsite neišdildomų kelionių įspūdžių. Nuo Amerikos iki Azijos.</desc>
+  </programme>
+  <programme start="20261113155500 +0000" stop="20261113160000 +0000" channel="Delfi TV">
+    <title lang="lt">Kenoloto</title>
+    <desc lang="lt">"Kenoloto" - viena seniausių loterijų Lietuvoje, žaisti pradėta dar 1996 metais. Šiuo metu laimėjimus atnešantis kamuoliukai ridenami net tris kartus per dieną, o dalyviai patys gali rinktis, kelis iš jų bandys atspėti, savo laimingus skaičius bei bilieto kainą. Pastaroji prasideda nuo 0,25 Eur, o didžiausias galimas loterijos laimėjimas net 200 000 Eur!</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus kelionių archyvai</title>
+    <desc lang="lt">Charizmatiškasis Orijus Gasanovas pramoginėje laidoje "Orijaus kelionės" drauge su žiūrovais leisis į pačias spalvingiausias keliones užsienyje ir Lietuvoje, dalinsis patarimais ir keliautojams naudinga informacija.</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus atostogos Lietuvoje</title>
+    <desc lang="lt">Žinomas keliautojas Orijus Gasanovas visą vasarą keliaus po įvairius Lietuvos miestus ir miestelius, juose ieškodamas įdomiausių lankytinų vietų, pramogų ir herojų, taip didindamas atostogų Lietuvoje patrauklumą.</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Delfi TV">
+    <title lang="lt">Pas Editą</title>
+    <desc lang="lt">,,Pas Editą"" - pokalbių laida, kurią veda charizmatiškoji Edita Mildažytė. Ilgametė patirtis televizijoje jai leidžia ypatingai jautriai atskleisti pašnekovus.</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Delfi TV">
+    <title lang="lt">Jūs rimtai?</title>
+    <desc lang="lt">Kiekvieną penktadienį - savaitės antraščių, straipsnių, komentarų ir reakcijų socialiniuose tinkluose apžvalga. Tai laida, kurioje dažniausiai skambės klausimas: DELFI, Jūs rimtai?</desc>
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="Delfi TV">
+    <title lang="lt">Savaitės kriminalai su Jauniumi Matoniu</title>
+    <desc lang="lt">Per savaitę įvykę kriminaliniai įvykiai - vienoje laidoje. Legendinis kriminalų žurnalistas Jaunius Matonis vienas pirmųjų atsiduria įvykių centre ir "Delfi TV" žiūrovams nušviečia situaciją iš arti.</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="Delfi TV">
+    <title lang="lt">Baidare per Ameriką</title>
+    <desc lang="lt">Po istorinių žygių ir įspūdingų iššūkių keliautojas Aurimas Valujavičius leidžiasi į dar vieną ambicingą ekspediciją - tolimiausią kelionę baidare Lietuvos istorijoje.</desc>
+  </programme>
+  <programme start="20261113203000 +0000" stop="20261113203500 +0000" channel="Delfi TV">
+    <title lang="lt">Kenoloto. Jėga</title>
+    <desc lang="lt">"Kenoloto" - viena seniausių loterijų Lietuvoje, žaisti pradėta dar 1996 metais. Šiuo metu laimėjimus atnešantis kamuoliukai ridenami net tris kartus per dieną, o dalyviai patys gali rinktis, kelis iš jų bandys atspėti, savo laimingus skaičius bei bilieto kainą. Pastaroji prasideda nuo 0,25 Eur, o didžiausias galimas loterijos laimėjimas net 200 000 Eur!</desc>
+  </programme>
+  <programme start="20261113203500 +0000" stop="20261113210500 +0000" channel="Delfi TV">
+    <title lang="lt">Mane veža</title>
+  </programme>
+  <programme start="20261113210500 +0000" stop="20261113220500 +0000" channel="Delfi TV">
+    <title lang="lt">Orijaus atostogos Lietuvoje</title>
+    <desc lang="lt">Žinomas keliautojas Orijus Gasanovas visą vasarą keliaus po įvairius Lietuvos miestus ir miestelius, juose ieškodamas įdomiausių lankytinų vietų, pramogų ir herojų, taip didindamas atostogų Lietuvoje patrauklumą.</desc>
+  </programme>
+  <programme start="20261113220500 +0000" stop="20261113223500 +0000" channel="Delfi TV">
+    <title lang="lt">Pauliaus Samoškos nuotykiai</title>
+    <desc lang="lt">Visų pamėgtas keliautojas iš Žemaitijos, Paulius Samoška, kloja kelią per septynis naujuosius pasaulio stebuklus. Stebėk Pauliaus kelionės nuotykius aplink pasaulį per Delfi televiziją!</desc>
+  </programme>
+  <programme start="20261113223500 +0000" stop="20261113230500 +0000" channel="Delfi TV">
     <title lang="lt">Pauliaus Samoškos nuotykiai</title>
     <desc lang="lt">Visų pamėgtas keliautojas iš Žemaitijos, Paulius Samoška, kloja kelią per septynis naujuosius pasaulio stebuklus. Stebėk Pauliaus kelionės nuotykius aplink pasaulį per Delfi televiziją!</desc>
   </programme>
